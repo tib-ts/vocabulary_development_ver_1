@@ -5,11 +5,3 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<https://example.com#ff789500-54bc-437f-99c7-a968e69061eb> rdf:type rdfs:Resource;
-    dcterms:identifier "ff789500-54bc-437f-99c7-a968e69061eb";
-    rdfs:label "Cat";
-    dcterms:description "The domesticated feline mammal, Felis catus, which is kept as a house pet.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C14191";
-    ex:status "draft";
-    dcterms:created "2025-09-23"^^xsd:date;
-    dcterms:modified "2025-09-23T11:54:26.517Z"^^xsd:dateTime.
