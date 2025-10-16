@@ -5,3 +5,11 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
+<https://example.com#9df0554b-1ad8-48bc-88e1-c5b6df1d7a1a> rdf:type rdfs:Resource;
+    dcterms:identifier "9df0554b-1ad8-48bc-88e1-c5b6df1d7a1a";
+    rdfs:label "Matrix Attachment Region";
+    dcterms:description "Regions of chromosomal DNA attached to a structural component of the interphase nucleus termed the nuclear matrix, permitting the partitioning of DNA in the chromosomes into looped chromatin domains.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C13437";
+    ex:status "draft";
+    dcterms:created "2025-10-16"^^xsd:date;
+    dcterms:modified "2025-10-16T19:52:07.020Z"^^xsd:dateTime.
