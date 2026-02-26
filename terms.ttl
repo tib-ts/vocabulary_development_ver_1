@@ -5,3 +5,11 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
+<https://example.com#2defc92e-c70e-41ee-8a53-fb1e267fbae0> rdf:type rdfs:Resource;
+    dcterms:identifier "2defc92e-c70e-41ee-8a53-fb1e267fbae0";
+    rdfs:label "dew";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FmatrWater%2FDew";
+    ex:status "draft";
+    dcterms:created "2026-02-26"^^xsd:date;
+    dcterms:modified "2026-02-26T11:19:36.908Z"^^xsd:dateTime.
