@@ -5,3 +5,11 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
+<https://example.com#a9da3e4b-0872-49f9-879f-12c3fb4a04bf> rdf:type rdfs:Resource;
+    dcterms:identifier "a9da3e4b-0872-49f9-879f-12c3fb4a04bf";
+    rdfs:label "test";
+    dcterms:description "A test can be considered a technical operation or procedure that consists of determination of one or more characteristics of a given product, process or service according to a specified procedure. Often a test is part of an experiment. The test result can be qualitative (yes/no), categorical, or quantitative (a measured value). It can be a personal observation or the output of a precision measuring instrument. [Wikipedia]";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/afo/terms?iri=http%3A%2F%2Fpurl.allotrope.org%2Fontologies%2Fprocess%23AFP_0002834";
+    ex:status "draft";
+    dcterms:created "2026-04-08"^^xsd:date;
+    dcterms:modified "2026-04-08T10:56:53.803Z"^^xsd:dateTime.
