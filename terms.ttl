@@ -29,13 +29,6 @@
     ex:status "draft";
     dcterms:created "2026-04-09"^^xsd:date;
     dcterms:modified "2026-04-09T11:23:23.334Z"^^xsd:dateTime.
-<https://example.com#b3d46841-ffba-40d7-a839-df169c7c5945> rdf:type rdfs:Resource;
-    dcterms:identifier "b3d46841-ffba-40d7-a839-df169c7c5945";
-    rdfs:label "manual";
-    dcterms:description "added term manually with define term";
-    ex:status "draft";
-    dcterms:created "2026-04-09"^^xsd:date;
-    dcterms:modified "2026-04-09T11:24:54.741Z"^^xsd:dateTime.
 <https://example.com#53835661-0fba-40c1-89a6-1437a17db50b> rdf:type rdfs:Resource;
     dcterms:identifier "53835661-0fba-40c1-89a6-1437a17db50b";
     rdfs:label "time";
