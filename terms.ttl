@@ -22,3 +22,11 @@
     ex:status "draft";
     dcterms:created "2026-04-08"^^xsd:date;
     dcterms:modified "2026-04-09T07:19:08.711Z"^^xsd:dateTime.
+<https://example.com#76e1b4a9-c3a1-4413-85d8-5795b3a9f55c> rdf:type rdfs:Resource;
+    dcterms:identifier "76e1b4a9-c3a1-4413-85d8-5795b3a9f55c";
+    rdfs:label "ustad";
+    skos:altLabel "teacher";
+    dcterms:description "a person who teaches in school";
+    ex:status "draft";
+    dcterms:created "2026-04-09"^^xsd:date;
+    dcterms:modified "2026-04-09T07:22:00.950Z"^^xsd:dateTime.
