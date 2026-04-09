@@ -16,8 +16,9 @@
 <https://example.com#87f25450-97ea-4b46-b520-5200673b8106> rdf:type rdfs:Resource;
     dcterms:identifier "87f25450-97ea-4b46-b520-5200673b8106";
     rdfs:label "Agent";
+    skos:altLabel "dicl-agent";
     dcterms:description "Agents are actors or stakeholders associated with construction lifecycles";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dices/terms?iri=https%3A%2F%2Fw3id.org%2Fdigitalconstruction%2F0.5%2FAgents%23Agent";
     ex:status "draft";
     dcterms:created "2026-04-08"^^xsd:date;
-    dcterms:modified "2026-04-08T15:25:52.578Z"^^xsd:dateTime.
+    dcterms:modified "2026-04-09T07:19:08.711Z"^^xsd:dateTime.
