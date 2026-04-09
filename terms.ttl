@@ -30,11 +30,3 @@
     ex:status "draft";
     dcterms:created "2026-04-09"^^xsd:date;
     dcterms:modified "2026-04-09T07:22:00.950Z"^^xsd:dateTime.
-<https://example.com#aeb375d2-4faf-4021-8ce1-7e12d177043b> rdf:type rdfs:Resource;
-    dcterms:identifier "aeb375d2-4faf-4021-8ce1-7e12d177043b";
-    rdfs:label "product design";
-    dcterms:description "Product design";
-    rdfs:seeAlso "Product design definition";
-    ex:status "draft";
-    dcterms:created "2026-04-09"^^xsd:date;
-    dcterms:modified "2026-04-09T07:43:25.466Z"^^xsd:dateTime.
