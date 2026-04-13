@@ -37,3 +37,11 @@
     ex:status "draft";
     dcterms:created "2026-04-09"^^xsd:date;
     dcterms:modified "2026-04-09T11:26:25.380Z"^^xsd:dateTime.
+<https://example.com#274dc736-606d-4b7d-968c-515ff000f51f> rdf:type rdfs:Resource;
+    dcterms:identifier "274dc736-606d-4b7d-968c-515ff000f51f";
+    rdfs:label "Electrode";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/battinfo/terms?iri=https%3A%2F%2Fw3id.org%2Femmo%2Fdomain%2Felectrochemistry%23electrochemistry_0f007072_a8dd_4798_b865_1bf9363be627";
+    ex:status "draft";
+    dcterms:created "2026-04-13"^^xsd:date;
+    dcterms:modified "2026-04-13T06:16:39.783Z"^^xsd:dateTime.
