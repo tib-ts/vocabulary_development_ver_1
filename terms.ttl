@@ -45,3 +45,11 @@
     ex:status "draft";
     dcterms:created "2026-04-13"^^xsd:date;
     dcterms:modified "2026-04-13T06:16:39.783Z"^^xsd:dateTime.
+<https://example.com#88dba58f-b7aa-4fc3-9ff7-8e136f657ea6> rdf:type rdfs:Resource;
+    dcterms:identifier "88dba58f-b7aa-4fc3-9ff7-8e136f657ea6";
+    rdfs:label "rental table";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bau/terms?iri=https%3A%2F%2Fterminology.fraunhofer.de%2Fvoc%2Fbau%23B10828225823_4";
+    ex:status "draft";
+    dcterms:created "2026-04-13"^^xsd:date;
+    dcterms:modified "2026-04-13T06:19:54.674Z"^^xsd:dateTime.
