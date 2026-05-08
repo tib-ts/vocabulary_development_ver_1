@@ -21,14 +21,6 @@
     ex:status "draft";
     dcterms:created "2026-04-09"^^xsd:date;
     dcterms:modified "2026-04-09T07:22:00.950Z"^^xsd:dateTime.
-<https://example.com#f19104ee-5c81-4ad0-8294-c10592d9a367> rdf:type rdfs:Resource;
-    dcterms:identifier "f19104ee-5c81-4ad0-8294-c10592d9a367";
-    rdfs:label "rationalization";
-    dcterms:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bau/terms?iri=https%3A%2F%2Fterminology.fraunhofer.de%2Fvoc%2Fbau%23B11080617381_4";
-    ex:status "draft";
-    dcterms:created "2026-04-09"^^xsd:date;
-    dcterms:modified "2026-04-09T11:23:23.334Z"^^xsd:dateTime.
 <https://example.com#53835661-0fba-40c1-89a6-1437a17db50b> rdf:type rdfs:Resource;
     dcterms:identifier "53835661-0fba-40c1-89a6-1437a17db50b";
     rdfs:label "time";
