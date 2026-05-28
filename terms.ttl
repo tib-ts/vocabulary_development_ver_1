@@ -37,3 +37,27 @@
     ex:status "draft";
     dcterms:created "2026-04-13"^^xsd:date;
     dcterms:modified "2026-04-13T06:19:54.674Z"^^xsd:dateTime.
+<https://example.com#17d8787b-af17-4ece-9c7d-581be4d4c925> rdf:type rdfs:Resource;
+    dcterms:identifier "17d8787b-af17-4ece-9c7d-581be4d4c925";
+    rdfs:label "Auction";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/stw/terms?iri=http%3A%2F%2Fzbw.eu%2Fstw%2Fdescriptor%2F13322-6";
+    ex:status "draft";
+    dcterms:created "2026-05-28"^^xsd:date;
+    dcterms:modified "2026-05-28T09:57:32.185Z"^^xsd:dateTime.
+<https://example.com#303cb09e-cf77-43d9-9e52-182d63b3db9d> rdf:type rdfs:Resource;
+    dcterms:identifier "303cb09e-cf77-43d9-9e52-182d63b3db9d";
+    rdfs:label "action";
+    dcterms:description "event announced, initiated or carried out by an organization that affects a legal entity or the securities it issues and may have a material impact on that entity's stakeholders, such as shareholders and creditors";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/fibo/terms?iri=https%3A%2F%2Fspec.edmcouncil.org%2Ffibo%2Fontology%2FCAE%2FCorporateEvents%2FCorporateActions%2FAction";
+    ex:status "draft";
+    dcterms:created "2026-05-28"^^xsd:date;
+    dcterms:modified "2026-05-28T09:57:41.202Z"^^xsd:dateTime.
+<https://example.com#4020ab65-3973-4e90-9c7b-893a5cd0d13f> rdf:type rdfs:Resource;
+    dcterms:identifier "4020ab65-3973-4e90-9c7b-893a5cd0d13f";
+    rdfs:label "temporal";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/et/terms?iri=http%3A%2F%2Fvocabs.lter-europe.net%2FEnvThes%2F22019";
+    ex:status "draft";
+    dcterms:created "2026-05-28"^^xsd:date;
+    dcterms:modified "2026-05-28T09:57:47.453Z"^^xsd:dateTime.
