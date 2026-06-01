@@ -13,3 +13,10 @@
     ex:status "draft";
     dcterms:created "2026-06-01"^^xsd:date;
     dcterms:modified "2026-06-01T12:41:32.620Z"^^xsd:dateTime.
+<https://example.com#d3a8435f-9000-4357-a7ec-a3530165821a> rdf:type rdfs:Resource;
+    dcterms:identifier "d3a8435f-9000-4357-a7ec-a3530165821a";
+    rdfs:label "Soft Skill";
+    dcterms:description "people's abilities to communicate with each other and work well together";
+    ex:status "draft";
+    dcterms:created "2026-06-01"^^xsd:date;
+    dcterms:modified "2026-06-01T13:11:19.925Z"^^xsd:dateTime.
