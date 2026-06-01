@@ -20,3 +20,10 @@
     ex:status "draft";
     dcterms:created "2026-06-01"^^xsd:date;
     dcterms:modified "2026-06-01T13:11:19.925Z"^^xsd:dateTime.
+<https://example.com#9dcc3bd1-a924-4036-9556-ea286ee88a6a> rdf:type rdfs:Resource;
+    dcterms:identifier "9dcc3bd1-a924-4036-9556-ea286ee88a6a";
+    rdfs:label "Innovation";
+    dcterms:description "a new idea or method";
+    ex:status "draft";
+    dcterms:created "2026-06-01"^^xsd:date;
+    dcterms:modified "2026-06-01T13:12:51.865Z"^^xsd:dateTime.
