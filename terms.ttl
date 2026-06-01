@@ -29,3 +29,12 @@
     ex:status "draft";
     dcterms:created "2026-04-09"^^xsd:date;
     dcterms:modified "2026-04-09T11:26:25.380Z"^^xsd:dateTime.
+<https://example.com#99a4798e-4e88-4da7-a370-4bcfca16b7b2> rdf:type rdfs:Resource;
+    dcterms:identifier "99a4798e-4e88-4da7-a370-4bcfca16b7b2";
+    rdfs:label "model";
+    skos:altLabel "alt model label";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FreprSciModel%2FModel";
+    ex:status "draft";
+    dcterms:created "2026-06-01"^^xsd:date;
+    dcterms:modified "2026-06-01T13:32:35.020Z"^^xsd:dateTime.
