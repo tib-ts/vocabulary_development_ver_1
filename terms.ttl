@@ -5,3 +5,11 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
+<https://example.com#25227627-87cf-4de6-ab1f-685a31ab2d94> rdf:type rdfs:Resource;
+    dcterms:identifier "25227627-87cf-4de6-ab1f-685a31ab2d94";
+    rdfs:label "Artistic Intelligence";
+    dcterms:description "refers to the collective capacity of artistic and practice-based research to generate impact and value beyond the project-specific, singular outcomes of an individual project. ";
+    rdfs:seeAlso "https://artisticintelligence.info/";
+    ex:status "draft";
+    dcterms:created "2026-06-01"^^xsd:date;
+    dcterms:modified "2026-06-01T12:41:32.620Z"^^xsd:dateTime.
