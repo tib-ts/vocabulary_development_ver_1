@@ -38,3 +38,11 @@
     ex:status "draft";
     dcterms:created "2026-06-01"^^xsd:date;
     dcterms:modified "2026-06-01T13:32:35.020Z"^^xsd:dateTime.
+<https://example.com#b9842f26-24d1-4ed5-bce0-e43248645d6b> rdf:type rdfs:Resource;
+    dcterms:identifier "b9842f26-24d1-4ed5-bce0-e43248645d6b";
+    rdfs:label "weather";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FphenAtmo%2FWeather";
+    ex:status "draft";
+    dcterms:created "2026-06-04"^^xsd:date;
+    dcterms:modified "2026-06-04T13:04:49.172Z"^^xsd:dateTime.
