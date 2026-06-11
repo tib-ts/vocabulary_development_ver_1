@@ -27,3 +27,10 @@
     ex:status "draft";
     dcterms:created "2026-06-01"^^xsd:date;
     dcterms:modified "2026-06-01T13:12:51.865Z"^^xsd:dateTime.
+<https://example.com#7bacfe97-d67e-4bff-9286-537ecbfd0e5c> rdf:type rdfs:Resource;
+    dcterms:identifier "7bacfe97-d67e-4bff-9286-537ecbfd0e5c";
+    rdfs:label "Artistic Intelligence Labs";
+    dcterms:description "Undefined yet";
+    ex:status "draft";
+    dcterms:created "2026-06-11"^^xsd:date;
+    dcterms:modified "2026-06-11T10:30:39.323Z"^^xsd:dateTime.
