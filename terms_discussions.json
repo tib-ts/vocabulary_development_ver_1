@@ -25,7 +25,12 @@
           "System ADMIN"
         ],
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "reactions": {
+          "thumbs_up": [
+            "System ADMIN"
+          ]
+        }
       }
     ]
   }
