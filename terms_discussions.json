@@ -74,6 +74,15 @@
         "votes": 0,
         "userVote": null,
         "status": "open"
+      },
+      {
+        "id": "etu0a64xo",
+        "parentId": "ri0ftt3it",
+        "author": "System ADMIN",
+        "content": "Okay, I will take a look",
+        "timestamp": "2026-08-31T08:20:42.635Z",
+        "votes": 0,
+        "userVote": null
       }
     ]
   }
