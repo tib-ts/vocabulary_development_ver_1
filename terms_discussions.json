@@ -72,7 +72,8 @@
           "Mark"
         ],
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "status": "open"
       }
     ]
   }
