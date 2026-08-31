@@ -1,1 +1,15 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dcterms: <http://purl.org/dc/terms/#>.
+@prefix ex: <https://example.com/ns#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
+<https://example.com#88953004-da1d-4db1-bf0f-4c7747407213> rdf:type rdfs:Resource;
+    dcterms:identifier "88953004-da1d-4db1-bf0f-4c7747407213";
+    rdfs:label "process";
+    dcterms:description "Process, i.e., a physical entity with a temporal evolution that 'has a meaning for the ontologist'";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/m4i/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FBFO_0000015";
+    ex:status "draft";
+    dcterms:created "2026-08-31"^^xsd:date;
+    dcterms:modified "2026-08-31T08:51:20.772Z"^^xsd:dateTime.
