@@ -27,11 +27,15 @@
         "votes": 0,
         "userVote": null,
         "reactions": {
-          "thumbs_up": [
+          "celebration": [
             "System ADMIN"
           ]
         }
       }
     ]
+  },
+  {
+    "resourceId": "aa0f7144-4d27-4e8b-9428-313285e26b02",
+    "comments": []
   }
 ]
