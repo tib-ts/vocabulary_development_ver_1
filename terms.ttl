@@ -21,3 +21,11 @@
     ex:status "draft";
     dcterms:created "2026-08-31"^^xsd:date;
     dcterms:modified "2026-08-31T10:06:07.741Z"^^xsd:dateTime.
+<https://example.com#aa0f7144-4d27-4e8b-9428-313285e26b02> rdf:type rdfs:Resource;
+    dcterms:identifier "aa0f7144-4d27-4e8b-9428-313285e26b02";
+    rdfs:label "agent";
+    dcterms:description "An agent is something that bears some form of responsibility for an activity taking place, for the existence of an entity, or for another agent's activity.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/m4i/terms?iri=http%3A%2F%2Fwww.w3.org%2Fns%2Fprov%23Agent";
+    ex:status "draft";
+    dcterms:created "2026-08-31"^^xsd:date;
+    dcterms:modified "2026-08-31T13:37:36.938Z"^^xsd:dateTime.
