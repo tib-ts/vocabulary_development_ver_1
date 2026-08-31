@@ -1,1 +1,19 @@
-
+[
+  {
+    "resourceId": "88953004-da1d-4db1-bf0f-4c7747407213",
+    "comments": [
+      {
+        "id": "qdi6yuora",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "@Mark do you think this term is relevant for us?",
+        "timestamp": "2026-08-31T08:53:11.093Z",
+        "mentionedUsers": [
+          "Mark"
+        ],
+        "votes": 0,
+        "userVote": null
+      }
+    ]
+  }
+]
