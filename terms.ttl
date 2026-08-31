@@ -13,3 +13,11 @@
     ex:status "draft";
     dcterms:created "2026-08-31"^^xsd:date;
     dcterms:modified "2026-08-31T08:51:20.772Z"^^xsd:dateTime.
+<https://example.com#7ba0f509-9af7-4daf-a282-7b9f7d8cc046> rdf:type rdfs:Resource;
+    dcterms:identifier "7ba0f509-9af7-4daf-a282-7b9f7d8cc046";
+    rdfs:label "research project";
+    dcterms:description "A research project";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/m4i/terms?iri=https%3A%2F%2Fschema.org%2FResearchProject";
+    ex:status "draft";
+    dcterms:created "2026-08-31"^^xsd:date;
+    dcterms:modified "2026-08-31T10:06:07.741Z"^^xsd:dateTime.
