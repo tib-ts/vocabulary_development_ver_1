@@ -71,8 +71,8 @@
         "mentionedUsers": [
           "Mark"
         ],
-        "votes": 0,
-        "userVote": null,
+        "votes": 1,
+        "userVote": "up",
         "status": "open"
       },
       {
