@@ -48,5 +48,22 @@
         "status": "open"
       }
     ]
+  },
+  {
+    "resourceId": "7ba0f509-9af7-4daf-a282-7b9f7d8cc046",
+    "comments": [
+      {
+        "id": "6rcj2ydb9",
+        "parentId": null,
+        "author": "TIB TS",
+        "content": "@System ADMIN description is the same as label",
+        "timestamp": "2026-09-01T13:51:37.479Z",
+        "mentionedUsers": [
+          "System ADMIN"
+        ],
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   }
 ]
