@@ -44,7 +44,8 @@
         "content": "I think we are missing alternative labels. For this term it's important.",
         "timestamp": "2026-09-01T13:45:45.117Z",
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "status": "open"
       }
     ]
   }
