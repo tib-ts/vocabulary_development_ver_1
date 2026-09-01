@@ -46,19 +46,3 @@
     ex:status "draft";
     dcterms:created "2026-06-04"^^xsd:date;
     dcterms:modified "2026-06-04T13:04:49.172Z"^^xsd:dateTime.
-<https://example.com#909c515a-978f-490a-a7fa-8e0e75746355> rdf:type rdfs:Resource;
-    dcterms:identifier "909c515a-978f-490a-a7fa-8e0e75746355";
-    rdfs:label "agent";
-    dcterms:description "something autonomous that can adapt to and interact with its environment";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/fibo/terms?iri=https%3A%2F%2Fwww.omg.org%2Fspec%2FCommons%2FPartiesAndSituations%2FAgent";
-    ex:status "draft";
-    dcterms:created "2026-09-01"^^xsd:date;
-    dcterms:modified "2026-09-01T13:08:28.433Z"^^xsd:dateTime.
-<https://example.com#301798b5-4df5-4177-91c3-c3fc55ef0d24> rdf:type rdfs:Resource;
-    dcterms:identifier "301798b5-4df5-4177-91c3-c3fc55ef0d24";
-    rdfs:label "specific";
-    dcterms:description "[NCIT] Clearly and explicitly stated.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/et/terms?iri=http%3A%2F%2Fvocabs.lter-europe.net%2FEnvThes%2F10346";
-    ex:status "draft";
-    dcterms:created "2026-09-01"^^xsd:date;
-    dcterms:modified "2026-09-01T13:23:27.673Z"^^xsd:dateTime.
