@@ -36,6 +36,16 @@
   },
   {
     "resourceId": "aa0f7144-4d27-4e8b-9428-313285e26b02",
-    "comments": []
+    "comments": [
+      {
+        "id": "8jslkunar",
+        "parentId": null,
+        "author": "TIB TS",
+        "content": "I think we are missing alternative labels. For this term it's important.",
+        "timestamp": "2026-09-01T13:45:45.117Z",
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   }
 ]
