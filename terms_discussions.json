@@ -46,6 +46,18 @@
         "votes": 0,
         "userVote": null,
         "status": "open"
+      },
+      {
+        "id": "if3h50fdd",
+        "parentId": "8jslkunar",
+        "author": "felix engel",
+        "content": "@TIB TS  what about Actor?",
+        "timestamp": "2026-09-02T10:36:25.695Z",
+        "mentionedUsers": [
+          "TIB TS"
+        ],
+        "votes": 0,
+        "userVote": null
       }
     ]
   },
