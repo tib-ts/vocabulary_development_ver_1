@@ -24,8 +24,8 @@
         "mentionedUsers": [
           "System ADMIN"
         ],
-        "votes": 0,
-        "userVote": null,
+        "votes": 1,
+        "userVote": "up",
         "reactions": {
           "celebration": [
             "System ADMIN"
