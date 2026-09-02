@@ -37,3 +37,11 @@
     ex:status "draft";
     dcterms:created "2026-09-02"^^xsd:date;
     dcterms:modified "2026-09-02T10:11:22.262Z"^^xsd:dateTime.
+<https://example.com#7d762823-e3a1-4a46-8423-af1dd453728f> rdf:type rdfs:Resource;
+    dcterms:identifier "7d762823-e3a1-4a46-8423-af1dd453728f";
+    rdfs:label "role";
+    dcterms:description "A role is the function of an entity or agent with respect to an activity, in the context of a usage, generation, invalidation, association, start, and end.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/m4i/terms?iri=http%3A%2F%2Fwww.w3.org%2Fns%2Fprov%23Role";
+    ex:status "draft";
+    dcterms:created "2026-09-02"^^xsd:date;
+    dcterms:modified "2026-09-02T11:10:13.372Z"^^xsd:dateTime.
