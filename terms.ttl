@@ -5,3 +5,10 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
+<https://example.com#cffa269e-73e1-4b02-8242-28e03d8ee723> rdf:type rdfs:Resource;
+    dcterms:identifier "cffa269e-73e1-4b02-8242-28e03d8ee723";
+    rdfs:label "Restoring Force";
+    dcterms:description "A restoring force is any force that acts to pull or push an object back toward its equilibrium position after it has been displaced";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T09:20:25.331Z"^^xsd:dateTime.
