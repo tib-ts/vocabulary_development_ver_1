@@ -5,3 +5,66 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
+<https://example.com#987494db-a925-4472-b37e-78c9303fead8> rdf:type rdfs:Resource;
+    dcterms:identifier "987494db-a925-4472-b37e-78c9303fead8";
+    rdfs:label "Heat transport";
+    dcterms:description "The transfer of heat by conduction, convection or radiation.";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:44:04.178Z"^^xsd:dateTime.
+<https://example.com#345e7d41-a9e1-4ee0-b785-f59ba883aed3> rdf:type rdfs:Resource;
+    dcterms:identifier "345e7d41-a9e1-4ee0-b785-f59ba883aed3";
+    rdfs:label "Heat loss";
+    dcterms:description "The transfer of thermal energy from a system to its cooler surroundings.";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:44:26.104Z"^^xsd:dateTime.
+<https://example.com#8d1ded7e-d085-4748-8400-09f71d5187f7> rdf:type rdfs:Resource;
+    dcterms:identifier "8d1ded7e-d085-4748-8400-09f71d5187f7";
+    rdfs:label "Thermal insulation";
+    dcterms:description "The reduction of heat exchange between a system and its surroundings through appropriate measures or materials";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:44:51.309Z"^^xsd:dateTime.
+<https://example.com#1fb39bfc-4c0a-477f-9a31-c6af91d5bf01> rdf:type rdfs:Resource;
+    dcterms:identifier "1fb39bfc-4c0a-477f-9a31-c6af91d5bf01";
+    rdfs:label "Insulation";
+    dcterms:description "The separation of a system from its surroundings, for example to reduce heat transfer.";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:45:31.836Z"^^xsd:dateTime.
+<https://example.com#a33b3cd2-7308-4427-a422-39fd825ed838> rdf:type rdfs:Resource;
+    dcterms:identifier "a33b3cd2-7308-4427-a422-39fd825ed838";
+    rdfs:label "Insulating material";
+    dcterms:description "A material which, due to its properties, reduces heat transfer";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:45:46.032Z"^^xsd:dateTime.
+<https://example.com#d4adb850-9ae2-45f5-bf89-a33d0b96b844> rdf:type rdfs:Resource;
+    dcterms:identifier "d4adb850-9ae2-45f5-bf89-a33d0b96b844";
+    rdfs:label "Thermal conductivity";
+    dcterms:description "A material property that indicates how well a substance conducts heat";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:46:04.202Z"^^xsd:dateTime.
+<https://example.com#dc5b7254-ab10-4919-8175-d88e2b95a483> rdf:type rdfs:Resource;
+    dcterms:identifier "dc5b7254-ab10-4919-8175-d88e2b95a483";
+    rdfs:label "Temperature change";
+    dcterms:description "A change in the temperature of a system over a specific period of time";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:46:20.307Z"^^xsd:dateTime.
+<https://example.com#fc6f1ea0-edb1-4240-ad69-ade5eb0a9dc8> rdf:type rdfs:Resource;
+    dcterms:identifier "fc6f1ea0-edb1-4240-ad69-ade5eb0a9dc8";
+    rdfs:label "Thermodynamics";
+    dcterms:description "A branch of physics and engineering that studies heat, temperature, energy and their transformation";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:46:34.147Z"^^xsd:dateTime.
+<https://example.com#08fdd0a4-b54d-42b1-a8e7-37f3cb091691> rdf:type rdfs:Resource;
+    dcterms:identifier "08fdd0a4-b54d-42b1-a8e7-37f3cb091691";
+    rdfs:label "Energy efficiency";
+    dcterms:description "The ratio between the desired benefit and the energy input required to achieve it";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:46:49.028Z"^^xsd:dateTime.
