@@ -37,11 +37,3 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T15:15:38.334Z"^^xsd:dateTime.
-<https://example.com#b356e145-3b0a-4fd5-bd39-b0c825a81baf> rdf:type rdfs:Resource;
-    dcterms:identifier "b356e145-3b0a-4fd5-bd39-b0c825a81baf";
-    rdfs:label "Temperature";
-    dcterms:description "Concept for a temperature.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/abcd/terms?iri=http%3A%2F%2Frs.tdwg.org%2Fabcd%2Fterms%2FTemperature";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T15:15:48.614Z"^^xsd:dateTime.
