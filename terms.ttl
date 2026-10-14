@@ -26,3 +26,11 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T09:25:08.527Z"^^xsd:dateTime.
+<https://example.com#0f11b22e-bcc5-4be5-9773-9e2abdf0b0cc> rdf:type rdfs:Resource;
+    dcterms:identifier "0f11b22e-bcc5-4be5-9773-9e2abdf0b0cc";
+    rdfs:label "dataset";
+    dcterms:description "A collection of data, published or curated by a single source, and available for access or download in one or more representations.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/m4i/terms?iri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23Dataset";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T10:42:58.567Z"^^xsd:dateTime.
