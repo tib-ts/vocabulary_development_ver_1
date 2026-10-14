@@ -45,3 +45,11 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T16:26:27.583Z"^^xsd:dateTime.
+<https://example.com#0ed594ce-6c74-481b-a33a-113879d3f41e> rdf:type rdfs:Resource;
+    dcterms:identifier "0ed594ce-6c74-481b-a33a-113879d3f41e";
+    rdfs:label "Engine";
+    dcterms:description "An engine is a device that converts fuel into mechanical energy through combustion.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/s4bldg/terms?iri=https%3A%2F%2Fsaref.etsi.org%2Fsaref4bldg%2FEngine";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T16:26:44.470Z"^^xsd:dateTime.
