@@ -126,7 +126,8 @@
         "content": "I agree, though what is verimeter?",
         "timestamp": "2026-10-14T09:36:36.042Z",
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "status": "open"
       }
     ]
   }
