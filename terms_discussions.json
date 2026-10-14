@@ -120,14 +120,13 @@
         "userVote": null
       },
       {
-        "id": "dzd10yma6",
-        "parentId": "okypw8x0y",
-        "author": "Max",
-        "content": "I agree, though what is verimeter?",
-        "timestamp": "2026-10-14T09:36:36.042Z",
+        "id": "jrmnrijlh",
+        "parentId": null,
+        "author": "Sandeep Kumar Manohara",
+        "content": "While a vernier caliper can measure the physical distance between gauge marks, the term 'gauge length' refers to the intrinsic baseline region of the material being tested, not the tool used to measure it.\n",
+        "timestamp": "2026-10-14T09:37:42.105Z",
         "votes": 0,
-        "userVote": null,
-        "status": "open"
+        "userVote": null
       }
     ]
   }
