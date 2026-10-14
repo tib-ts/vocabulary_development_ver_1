@@ -46,3 +46,10 @@
     ex:status "draft";
     dcterms:created "2026-06-04"^^xsd:date;
     dcterms:modified "2026-06-04T13:04:49.172Z"^^xsd:dateTime.
+<https://example.com#fc42938c-a250-4555-88be-4d5c672cde3b> rdf:type rdfs:Resource;
+    dcterms:identifier "fc42938c-a250-4555-88be-4d5c672cde3b";
+    rdfs:label "Daten";
+    dcterms:description "Separate version of the vocabulary development platform";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T10:46:50.645Z"^^xsd:dateTime.
