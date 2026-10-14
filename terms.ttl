@@ -91,11 +91,3 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T14:59:00.725Z"^^xsd:dateTime.
-<https://example.com#2608b6cc-9a8c-4887-90e7-ed0f08bd4fc4> rdf:type rdfs:Resource;
-    dcterms:identifier "2608b6cc-9a8c-4887-90e7-ed0f08bd4fc4";
-    rdfs:label "Add";
-    dcterms:description "To join or unite with others so as to increase size, quantity, or scope.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C64911";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T14:59:23.621Z"^^xsd:dateTime.
