@@ -67,3 +67,11 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T10:48:11.717Z"^^xsd:dateTime.
+<https://example.com#2cfdcf0d-9ffa-40b9-8c60-c55287d607b5> rdf:type rdfs:Resource;
+    dcterms:identifier "2cfdcf0d-9ffa-40b9-8c60-c55287d607b5";
+    rdfs:label "sample";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FhumanResearch%2FSample";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T10:50:58.247Z"^^xsd:dateTime.
