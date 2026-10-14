@@ -106,5 +106,22 @@
         "userVote": null
       }
     ]
+  },
+  {
+    "resourceId": "5ed011f0-1d16-4d2a-8d6b-75c220588661",
+    "comments": [
+      {
+        "id": "suo5ri3ql",
+        "parentId": null,
+        "author": "Max",
+        "content": "@Nenad Krdzavac very useful term with clear description. It should stay in our vocabulary",
+        "timestamp": "2026-10-14T09:33:35.236Z",
+        "mentionedUsers": [
+          "Nenad Krdzavac"
+        ],
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   }
 ]
