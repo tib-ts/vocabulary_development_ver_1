@@ -34,3 +34,11 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T10:42:58.567Z"^^xsd:dateTime.
+<https://example.com#7a715f2d-65ae-4045-9b87-a5753a4c7ab7> rdf:type rdfs:Resource;
+    dcterms:identifier "7a715f2d-65ae-4045-9b87-a5753a4c7ab7";
+    rdfs:label "Dataset";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/m4i/terms?iri=https%3A%2F%2Fschema.org%2FDataset";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T10:43:20.640Z"^^xsd:dateTime.
