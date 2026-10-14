@@ -5,39 +5,6 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<https://example.com#a9da3e4b-0872-49f9-879f-12c3fb4a04bf> rdf:type rdfs:Resource;
-    dcterms:identifier "a9da3e4b-0872-49f9-879f-12c3fb4a04bf";
-    rdfs:label "test";
-    dcterms:description "A test can be considered a technical operation or procedure that consists of determination of one or more characteristics of a given product, process or service according to a specified procedure. Often a test is part of an experiment. The test result can be qualitative (yes/no), categorical, or quantitative (a measured value). It can be a personal observation or the output of a precision measuring instrument. [Wikipedia]";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/afo/terms?iri=http%3A%2F%2Fpurl.allotrope.org%2Fontologies%2Fprocess%23AFP_0002834";
-    ex:status "draft";
-    dcterms:created "2026-04-08"^^xsd:date;
-    dcterms:modified "2026-04-08T10:56:53.803Z"^^xsd:dateTime.
-<https://example.com#76e1b4a9-c3a1-4413-85d8-5795b3a9f55c> rdf:type rdfs:Resource;
-    dcterms:identifier "76e1b4a9-c3a1-4413-85d8-5795b3a9f55c";
-    rdfs:label "ustad";
-    skos:altLabel "teacher";
-    dcterms:description "a person who teaches in school";
-    ex:status "draft";
-    dcterms:created "2026-04-09"^^xsd:date;
-    dcterms:modified "2026-04-09T07:22:00.950Z"^^xsd:dateTime.
-<https://example.com#53835661-0fba-40c1-89a6-1437a17db50b> rdf:type rdfs:Resource;
-    dcterms:identifier "53835661-0fba-40c1-89a6-1437a17db50b";
-    rdfs:label "time";
-    dcterms:description "This is a reference to time as a dependent variable";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FpropTime%2FTime";
-    ex:status "draft";
-    dcterms:created "2026-04-09"^^xsd:date;
-    dcterms:modified "2026-04-09T11:26:25.380Z"^^xsd:dateTime.
-<https://example.com#99a4798e-4e88-4da7-a370-4bcfca16b7b2> rdf:type rdfs:Resource;
-    dcterms:identifier "99a4798e-4e88-4da7-a370-4bcfca16b7b2";
-    rdfs:label "model";
-    skos:altLabel "alt model label";
-    dcterms:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FreprSciModel%2FModel";
-    ex:status "draft";
-    dcterms:created "2026-06-01"^^xsd:date;
-    dcterms:modified "2026-06-01T13:32:35.020Z"^^xsd:dateTime.
 <https://example.com#b9842f26-24d1-4ed5-bce0-e43248645d6b> rdf:type rdfs:Resource;
     dcterms:identifier "b9842f26-24d1-4ed5-bce0-e43248645d6b";
     rdfs:label "weather";
@@ -46,43 +13,6 @@
     ex:status "draft";
     dcterms:created "2026-06-04"^^xsd:date;
     dcterms:modified "2026-06-04T13:04:49.172Z"^^xsd:dateTime.
-<https://example.com#fc42938c-a250-4555-88be-4d5c672cde3b> rdf:type rdfs:Resource;
-    dcterms:identifier "fc42938c-a250-4555-88be-4d5c672cde3b";
-    rdfs:label "Daten";
-    dcterms:description "Separate version of the vocabulary development platform";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T10:46:50.645Z"^^xsd:dateTime.
-<https://example.com#e331cd55-66e7-47da-a2dc-1a52d2436a5e> rdf:type rdfs:Resource;
-    dcterms:identifier "e331cd55-66e7-47da-a2dc-1a52d2436a5e";
-    rdfs:label "Det";
-    dcterms:description "Berbatov made his debut appearance for the national team on 17 November 1999 as a substitute for Aleksandar Aleksandrov";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T10:47:19.685Z"^^xsd:dateTime.
-<https://example.com#f5ba08ea-0320-460e-b281-f1cbfb8f9e62> rdf:type rdfs:Resource;
-    dcterms:identifier "f5ba08ea-0320-460e-b281-f1cbfb8f9e62";
-    rdfs:label "Ter";
-    dcterms:description "This was the only major tournament that he played for Bulgaria. He retired from the national team at the age of 29; many believed that he lacked the motivation and dr";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T10:48:11.717Z"^^xsd:dateTime.
-<https://example.com#a8725182-3d32-4a54-85f1-4ca6d9e6ad83> rdf:type rdfs:Resource;
-    dcterms:identifier "a8725182-3d32-4a54-85f1-4ca6d9e6ad83";
-    rdfs:label "chip";
-    dcterms:description "The word 'chip' is used to describe any flat surface (glass, plastic, other) that may be coated or treated to impart certain properties to help in either the immobilization and/or measurement of certain properties of varied macromolecules (protien, nucleic acid, small molecule). If an array of molecules is immobilized on a chip, the preferred term is 'array'.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bao/terms?iri=http%3A%2F%2Fwww.bioassayontology.org%2Fbao%23BAO_0010023";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T10:51:44.641Z"^^xsd:dateTime.
-<https://example.com#0a970819-7dca-4419-bb1f-c99bc6c7b429> rdf:type rdfs:Resource;
-    dcterms:identifier "0a970819-7dca-4419-bb1f-c99bc6c7b429";
-    rdfs:label "Temperature";
-    dcterms:description "Concept for a temperature.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/abcd/terms?iri=http%3A%2F%2Frs.tdwg.org%2Fabcd%2Fterms%2FTemperature";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T14:57:27.038Z"^^xsd:dateTime.
 <https://example.com#657bd97e-1a58-4e94-8f01-3a242fc552e3> rdf:type rdfs:Resource;
     dcterms:identifier "657bd97e-1a58-4e94-8f01-3a242fc552e3";
     rdfs:label "sorrow";
