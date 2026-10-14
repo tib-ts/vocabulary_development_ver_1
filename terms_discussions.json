@@ -127,7 +127,12 @@
         "timestamp": "2026-10-14T09:36:36.042Z",
         "votes": 0,
         "userVote": null,
-        "status": "open"
+        "status": "open",
+        "reactions": {
+          "smile": [
+            "Sandeep Kumar Manohara"
+          ]
+        }
       },
       {
         "id": "f3g8q2c8v",
