@@ -53,3 +53,10 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T10:46:50.645Z"^^xsd:dateTime.
+<https://example.com#e331cd55-66e7-47da-a2dc-1a52d2436a5e> rdf:type rdfs:Resource;
+    dcterms:identifier "e331cd55-66e7-47da-a2dc-1a52d2436a5e";
+    rdfs:label "Det";
+    dcterms:description "Berbatov made his debut appearance for the national team on 17 November 1999 as a substitute for Aleksandar Aleksandrov";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T10:47:19.685Z"^^xsd:dateTime.
