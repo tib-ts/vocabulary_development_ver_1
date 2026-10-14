@@ -19,3 +19,10 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T09:25:48.399Z"^^xsd:dateTime.
+<https://example.com#adaaf5b6-e2e7-4d60-a832-f24d2b2e813e> rdf:type rdfs:Resource;
+    dcterms:identifier "adaaf5b6-e2e7-4d60-a832-f24d2b2e813e";
+    rdfs:label "Elastomer";
+    dcterms:description "A lightly cross-linked polymer that can stretch significantly and return to its original shape.";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T09:26:35.137Z"^^xsd:dateTime.
