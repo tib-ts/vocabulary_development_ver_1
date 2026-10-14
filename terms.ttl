@@ -5,11 +5,3 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<https://example.com#2c38d827-cd3f-4015-b2a3-cb22b491c6d4> rdf:type rdfs:Resource;
-    dcterms:identifier "2c38d827-cd3f-4015-b2a3-cb22b491c6d4";
-    rdfs:label "Dataset";
-    dcterms:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/m4i/terms?iri=https%3A%2F%2Fschema.org%2FDataset";
-    ex:status "draft";
-    dcterms:created "2026-10-13"^^xsd:date;
-    dcterms:modified "2026-10-13T15:31:55.066Z"^^xsd:dateTime.
