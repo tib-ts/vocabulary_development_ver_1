@@ -37,3 +37,11 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T15:15:38.334Z"^^xsd:dateTime.
+<https://example.com#e6a3db62-5c5f-4f39-87f2-44c7b6c7d1b5> rdf:type rdfs:Resource;
+    dcterms:identifier "e6a3db62-5c5f-4f39-87f2-44c7b6c7d1b5";
+    rdfs:label "Derive";
+    dcterms:description "to create new derivative data from the original data";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dpv/terms?iri=https%3A%2F%2Fw3id.org%2Fdpv%23Derive";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T16:26:27.583Z"^^xsd:dateTime.
