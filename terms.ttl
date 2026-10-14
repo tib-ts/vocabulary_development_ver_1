@@ -5,10 +5,17 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<https://example.com#4b60f319-81e3-4263-ba8d-59f702d7f5c7> rdf:type rdfs:Resource;
-    dcterms:identifier "4b60f319-81e3-4263-ba8d-59f702d7f5c7";
-    rdfs:label "polymer";
-    dcterms:description "materials formed from the mixture of two or more elements";
+<https://example.com#5bcaa255-f1bc-483f-8213-28b5eb5befa8> rdf:type rdfs:Resource;
+    dcterms:identifier "5bcaa255-f1bc-483f-8213-28b5eb5befa8";
+    rdfs:label "Polumer science";
+    dcterms:description "subfield of materials science concerned with polymers, primarily synthetic polymers such as plastics and elastomers.";
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T09:17:52.208Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-14T09:09:39.166Z"^^xsd:dateTime.
+<https://example.com#2ef7f692-ed73-4cb8-93af-7d2880cc642d> rdf:type rdfs:Resource;
+    dcterms:identifier "2ef7f692-ed73-4cb8-93af-7d2880cc642d";
+    rdfs:label "Latex rubber";
+    dcterms:description "Types of polyisoprene that are used as natural rubbers are classified as elastomers. Currently, rubber is harvested mainly in the form of the latex from the Pará rubber tree";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T09:23:37.846Z"^^xsd:dateTime.
