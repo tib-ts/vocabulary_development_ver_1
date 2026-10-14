@@ -67,11 +67,11 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T10:48:11.717Z"^^xsd:dateTime.
-<https://example.com#2cfdcf0d-9ffa-40b9-8c60-c55287d607b5> rdf:type rdfs:Resource;
-    dcterms:identifier "2cfdcf0d-9ffa-40b9-8c60-c55287d607b5";
-    rdfs:label "sample";
-    dcterms:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FhumanResearch%2FSample";
+<https://example.com#a8725182-3d32-4a54-85f1-4ca6d9e6ad83> rdf:type rdfs:Resource;
+    dcterms:identifier "a8725182-3d32-4a54-85f1-4ca6d9e6ad83";
+    rdfs:label "chip";
+    dcterms:description "The word 'chip' is used to describe any flat surface (glass, plastic, other) that may be coated or treated to impart certain properties to help in either the immobilization and/or measurement of certain properties of varied macromolecules (protien, nucleic acid, small molecule). If an array of molecules is immobilized on a chip, the preferred term is 'array'.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bao/terms?iri=http%3A%2F%2Fwww.bioassayontology.org%2Fbao%23BAO_0010023";
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T10:50:58.247Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-14T10:51:44.641Z"^^xsd:dateTime.
