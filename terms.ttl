@@ -75,11 +75,11 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T10:51:44.641Z"^^xsd:dateTime.
-<https://example.com#ba06e328-2b63-4475-a5a8-89b3b52643ef> rdf:type rdfs:Resource;
-    dcterms:identifier "ba06e328-2b63-4475-a5a8-89b3b52643ef";
-    rdfs:label "sorrow";
-    dcterms:description "sorrow is the emotion that is characterized by a long term state of intense sadness, distress and a degree of resignation (not accepting).";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sio/terms?iri=http%3A%2F%2Fsemanticscience.org%2Fresource%2FSIO_000868";
+<https://example.com#0a970819-7dca-4419-bb1f-c99bc6c7b429> rdf:type rdfs:Resource;
+    dcterms:identifier "0a970819-7dca-4419-bb1f-c99bc6c7b429";
+    rdfs:label "Temperature";
+    dcterms:description "Concept for a temperature.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/abcd/terms?iri=http%3A%2F%2Frs.tdwg.org%2Fabcd%2Fterms%2FTemperature";
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T14:57:57.562Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-14T14:57:27.038Z"^^xsd:dateTime.
