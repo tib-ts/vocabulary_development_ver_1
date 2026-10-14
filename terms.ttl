@@ -60,3 +60,10 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T10:47:19.685Z"^^xsd:dateTime.
+<https://example.com#f5ba08ea-0320-460e-b281-f1cbfb8f9e62> rdf:type rdfs:Resource;
+    dcterms:identifier "f5ba08ea-0320-460e-b281-f1cbfb8f9e62";
+    rdfs:label "Ter";
+    dcterms:description "This was the only major tournament that he played for Bulgaria. He retired from the national team at the age of 29; many believed that he lacked the motivation and dr";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T10:48:11.717Z"^^xsd:dateTime.
