@@ -75,3 +75,11 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T10:51:44.641Z"^^xsd:dateTime.
+<https://example.com#ba06e328-2b63-4475-a5a8-89b3b52643ef> rdf:type rdfs:Resource;
+    dcterms:identifier "ba06e328-2b63-4475-a5a8-89b3b52643ef";
+    rdfs:label "sorrow";
+    dcterms:description "sorrow is the emotion that is characterized by a long term state of intense sadness, distress and a degree of resignation (not accepting).";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sio/terms?iri=http%3A%2F%2Fsemanticscience.org%2Fresource%2FSIO_000868";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T14:57:57.562Z"^^xsd:dateTime.
