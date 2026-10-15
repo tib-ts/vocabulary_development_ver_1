@@ -190,5 +190,19 @@
         "userVote": null
       }
     ]
+  },
+  {
+    "resourceId": "838b57c0-ef14-4e7a-b2b6-d3f63d2d902d",
+    "comments": [
+      {
+        "id": "sxkifcv5s",
+        "parentId": null,
+        "author": "Mark",
+        "content": "New comment with github-webhook",
+        "timestamp": "2026-10-15T11:47:36.668Z",
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   }
 ]
