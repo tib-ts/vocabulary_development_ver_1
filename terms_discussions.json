@@ -161,6 +161,16 @@
   },
   {
     "resourceId": "0ed594ce-6c74-481b-a33a-113879d3f41e",
-    "comments": []
+    "comments": [
+      {
+        "id": "odaafvjra",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "Everyone agrees?",
+        "timestamp": "2026-10-15T08:14:58.449Z",
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   }
 ]
