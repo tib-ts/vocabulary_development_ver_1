@@ -69,14 +69,6 @@
     ex:status "draft";
     dcterms:created "2026-10-15"^^xsd:date;
     dcterms:modified "2026-10-15T08:26:38.125Z"^^xsd:dateTime.
-<https://example.com#4e1c70ae-22af-4cb4-85c7-0ce373b3e819> rdf:type rdfs:Resource;
-    dcterms:identifier "4e1c70ae-22af-4cb4-85c7-0ce373b3e819";
-    rdfs:label "Actor";
-    dcterms:description "An agent that performs activities.\n\nPerson, organization or organizational unit involved in a construction process (ISO 19650-1, def 3.2.1). \n\nNote 1: Organizational units include, but are not limited to, departments, teams.\n\nNote 2: In the context of ISO 19650-1, construction processes take place during the delivery phase\nand the operational phase.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dicob/terms?iri=https%3A%2F%2Fw3id.org%2Fdigitalconstruction%2F0.5%2FAgents%23Actor";
-    ex:status "draft";
-    dcterms:created "2026-10-15"^^xsd:date;
-    dcterms:modified "2026-10-15T08:27:45.358Z"^^xsd:dateTime.
 <https://example.com#29a3329a-9f38-4a88-83f7-ea2002a216bc> rdf:type rdfs:Resource;
     dcterms:identifier "29a3329a-9f38-4a88-83f7-ea2002a216bc";
     rdfs:label "stove";
