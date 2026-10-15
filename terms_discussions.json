@@ -15,5 +15,22 @@
         "userVote": null
       }
     ]
+  },
+  {
+    "resourceId": "fc6f1ea0-edb1-4240-ad69-ade5eb0a9dc8",
+    "comments": [
+      {
+        "id": "e1wnwyyus",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "@Mark received?",
+        "timestamp": "2026-10-15T15:27:49.747Z",
+        "mentionedUsers": [
+          "Mark"
+        ],
+        "votes": 0,
+        "userVote": null
+      }
+    ]
   }
 ]
