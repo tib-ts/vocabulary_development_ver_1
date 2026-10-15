@@ -37,14 +37,6 @@
     ex:status "draft";
     dcterms:created "2026-10-15"^^xsd:date;
     dcterms:modified "2026-10-15T08:26:26.931Z"^^xsd:dateTime.
-<https://example.com#838b57c0-ef14-4e7a-b2b6-d3f63d2d902d> rdf:type rdfs:Resource;
-    dcterms:identifier "838b57c0-ef14-4e7a-b2b6-d3f63d2d902d";
-    rdfs:label "Opera";
-    dcterms:description "Perkin Elmer\nhttp://www.perkinelmer.com/pages/020/cellularimaging/products/opera.xhtml";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bao/terms?iri=http%3A%2F%2Fwww.bioassayontology.org%2Fbao%23BAO_0002956";
-    ex:status "draft";
-    dcterms:created "2026-10-15"^^xsd:date;
-    dcterms:modified "2026-10-15T08:26:38.125Z"^^xsd:dateTime.
 <https://example.com#29a3329a-9f38-4a88-83f7-ea2002a216bc> rdf:type rdfs:Resource;
     dcterms:identifier "29a3329a-9f38-4a88-83f7-ea2002a216bc";
     rdfs:label "stove";
