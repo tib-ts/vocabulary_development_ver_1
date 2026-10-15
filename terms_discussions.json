@@ -179,6 +179,15 @@
         "timestamp": "2026-10-15T08:15:20.271Z",
         "votes": 0,
         "userVote": null
+      },
+      {
+        "id": "yy4l93m7g",
+        "parentId": "odaafvjra",
+        "author": "Mark",
+        "content": "Good point",
+        "timestamp": "2026-10-15T08:15:22.097Z",
+        "votes": 0,
+        "userVote": null
       }
     ]
   }
