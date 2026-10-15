@@ -202,27 +202,13 @@
         "timestamp": "2026-10-15T11:47:36.668Z",
         "votes": 0,
         "userVote": null
-      }
-    ]
-  },
-  {
-    "resourceId": "2a9c1dee-ab07-401e-8d64-2ae90e3a8b24",
-    "comments": [
-      {
-        "id": "c7h9c4b5c",
-        "parentId": null,
-        "author": "Mark",
-        "content": "new comment in addition",
-        "timestamp": "2026-10-15T12:06:39.773Z",
-        "votes": 0,
-        "userVote": null
       },
       {
-        "id": "t17gttdtc",
-        "parentId": "c7h9c4b5c",
+        "id": "i90tjxrkt",
+        "parentId": null,
         "author": "System ADMIN",
-        "content": "understood",
-        "timestamp": "2026-10-15T12:16:54.983Z",
+        "content": "Another comment",
+        "timestamp": "2026-10-15T12:18:48.473Z",
         "votes": 0,
         "userVote": null
       }
