@@ -21,14 +21,6 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T14:59:00.725Z"^^xsd:dateTime.
-<https://example.com#2a9c1dee-ab07-401e-8d64-2ae90e3a8b24> rdf:type rdfs:Resource;
-    dcterms:identifier "2a9c1dee-ab07-401e-8d64-2ae90e3a8b24";
-    rdfs:label "addition";
-    dcterms:description "Reactions that add atoms or groups across multiple bonds";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/chemrof/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FRXNO_0000041";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T15:14:07.647Z"^^xsd:dateTime.
 <https://example.com#e99422dc-ec23-433f-86c1-768c3f1f55a4> rdf:type rdfs:Resource;
     dcterms:identifier "e99422dc-ec23-433f-86c1-768c3f1f55a4";
     rdfs:label "graph";
