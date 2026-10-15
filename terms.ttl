@@ -75,10 +75,3 @@
     ex:status "draft";
     dcterms:created "2026-10-15"^^xsd:date;
     dcterms:modified "2026-10-15T09:04:26.559Z"^^xsd:dateTime.
-<https://example.com#7e95121f-6b9a-472e-a6f9-057cd9e6b7dd> rdf:type rdfs:Resource;
-    dcterms:identifier "7e95121f-6b9a-472e-a6f9-057cd9e6b7dd";
-    rdfs:label "Locally_defined_term_by_Max";
-    dcterms:description "Definition";
-    ex:status "draft";
-    dcterms:created "2026-10-15"^^xsd:date;
-    dcterms:modified "2026-10-15T09:04:38.532Z"^^xsd:dateTime.
