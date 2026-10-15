@@ -68,3 +68,10 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T11:46:49.028Z"^^xsd:dateTime.
+<https://example.com#7c0b857c-150d-41ab-9838-302277aa6d2c> rdf:type rdfs:Resource;
+    dcterms:identifier "7c0b857c-150d-41ab-9838-302277aa6d2c";
+    rdfs:label "Test Felix Term";
+    dcterms:description "Test testet ";
+    ex:status "draft";
+    dcterms:created "2026-10-15"^^xsd:date;
+    dcterms:modified "2026-10-15T09:04:26.559Z"^^xsd:dateTime.
