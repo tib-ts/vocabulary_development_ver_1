@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "resourceId": "8d1ded7e-d085-4748-8400-09f71d5187f7",
+    "comments": [
+      {
+        "id": "uu5kx2efj",
+        "parentId": null,
+        "author": "Max",
+        "content": "@System ADMIN new comment?",
+        "timestamp": "2026-10-15T15:20:51.408Z",
+        "mentionedUsers": [
+          "System ADMIN"
+        ],
+        "votes": 0,
+        "userVote": null
+      }
+    ]
+  }
+]
