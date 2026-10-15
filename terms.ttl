@@ -21,14 +21,6 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T15:15:38.334Z"^^xsd:dateTime.
-<https://example.com#0dbaae3c-1df0-408f-a9e3-193d94bfd7e1> rdf:type rdfs:Resource;
-    dcterms:identifier "0dbaae3c-1df0-408f-a9e3-193d94bfd7e1";
-    rdfs:label "Voice";
-    dcterms:description "Sound produced by vibration of the vocal cords during an expiration of air.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C92692";
-    ex:status "draft";
-    dcterms:created "2026-10-15"^^xsd:date;
-    dcterms:modified "2026-10-15T08:26:26.931Z"^^xsd:dateTime.
 <https://example.com#29a3329a-9f38-4a88-83f7-ea2002a216bc> rdf:type rdfs:Resource;
     dcterms:identifier "29a3329a-9f38-4a88-83f7-ea2002a216bc";
     rdfs:label "stove";
