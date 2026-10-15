@@ -12,13 +12,6 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T11:44:04.178Z"^^xsd:dateTime.
-<https://example.com#345e7d41-a9e1-4ee0-b785-f59ba883aed3> rdf:type rdfs:Resource;
-    dcterms:identifier "345e7d41-a9e1-4ee0-b785-f59ba883aed3";
-    rdfs:label "Heat loss";
-    dcterms:description "The transfer of thermal energy from a system to its cooler surroundings.";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T11:44:26.104Z"^^xsd:dateTime.
 <https://example.com#8d1ded7e-d085-4748-8400-09f71d5187f7> rdf:type rdfs:Resource;
     dcterms:identifier "8d1ded7e-d085-4748-8400-09f71d5187f7";
     rdfs:label "Thermal insulation";
@@ -54,13 +47,6 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T11:46:20.307Z"^^xsd:dateTime.
-<https://example.com#fc6f1ea0-edb1-4240-ad69-ade5eb0a9dc8> rdf:type rdfs:Resource;
-    dcterms:identifier "fc6f1ea0-edb1-4240-ad69-ade5eb0a9dc8";
-    rdfs:label "Thermodynamics";
-    dcterms:description "A branch of physics and engineering that studies heat, temperature, energy and their transformation";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T11:46:34.147Z"^^xsd:dateTime.
 <https://example.com#08fdd0a4-b54d-42b1-a8e7-37f3cb091691> rdf:type rdfs:Resource;
     dcterms:identifier "08fdd0a4-b54d-42b1-a8e7-37f3cb091691";
     rdfs:label "Energy efficiency";
