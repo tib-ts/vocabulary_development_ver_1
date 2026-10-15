@@ -192,23 +192,17 @@
     ]
   },
   {
-    "resourceId": "838b57c0-ef14-4e7a-b2b6-d3f63d2d902d",
+    "resourceId": "0dbaae3c-1df0-408f-a9e3-193d94bfd7e1",
     "comments": [
       {
-        "id": "sxkifcv5s",
-        "parentId": null,
-        "author": "Mark",
-        "content": "New comment with github-webhook",
-        "timestamp": "2026-10-15T11:47:36.668Z",
-        "votes": 0,
-        "userVote": null
-      },
-      {
-        "id": "i90tjxrkt",
+        "id": "cum9510um",
         "parentId": null,
         "author": "System ADMIN",
-        "content": "Another comment",
-        "timestamp": "2026-10-15T12:18:48.473Z",
+        "content": "@Mark check if you agree?",
+        "timestamp": "2026-10-15T13:18:46.790Z",
+        "mentionedUsers": [
+          "Mark"
+        ],
         "votes": 0,
         "userVote": null
       }
