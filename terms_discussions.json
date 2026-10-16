@@ -103,7 +103,9 @@
         "upvotes": [
           "System ADMIN"
         ],
-        "downvotes": []
+        "downvotes": [
+          "Mark"
+        ]
       },
       {
         "id": "1qewic9hq",
