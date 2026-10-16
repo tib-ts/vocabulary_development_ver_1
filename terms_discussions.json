@@ -107,8 +107,8 @@
         "author": "felix engel",
         "content": "Test",
         "timestamp": "2026-10-16T08:34:55.526Z",
-        "votes": 0,
-        "userVote": null
+        "votes": -1,
+        "userVote": "down"
       }
     ]
   }
