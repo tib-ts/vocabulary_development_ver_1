@@ -64,9 +64,6 @@
         "reactions": {
           "celebration": [
             "Felix TEST"
-          ],
-          "thumbs_up": [
-            "Sandeep Kumar"
           ]
         }
       },
@@ -89,7 +86,8 @@
           "testie"
         ],
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "status": "open"
       }
     ]
   }
