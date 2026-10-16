@@ -51,7 +51,11 @@
           "smile": [
             "Felix TEST"
           ]
-        }
+        },
+        "upvotes": [
+          "Max"
+        ],
+        "downvotes": []
       },
       {
         "id": "lkxu5c8r2",
