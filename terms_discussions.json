@@ -99,7 +99,11 @@
           "Mark"
         ],
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "upvotes": [
+          "System ADMIN"
+        ],
+        "downvotes": []
       },
       {
         "id": "1qewic9hq",
