@@ -46,7 +46,12 @@
           "Sandeep Kumar"
         ],
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "reactions": {
+          "smile": [
+            "Felix TEST"
+          ]
+        }
       },
       {
         "id": "lkxu5c8r2",
