@@ -34,6 +34,6 @@
     rdfs:label "Test";
     dcterms:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/glass/terms?iri=https%3A%2F%2Fmaterial-digital.de%2Fpmdco%2FTest";
-    ex:status "draft";
+    ex:status "accept";
     dcterms:created "2026-10-15"^^xsd:date;
-    dcterms:modified "2026-10-15T13:47:16.575Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-16T10:30:15.721Z"^^xsd:dateTime.
