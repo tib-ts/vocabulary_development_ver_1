@@ -45,8 +45,8 @@
         "mentionedUsers": [
           "Sandeep Kumar"
         ],
-        "votes": 1,
-        "userVote": "up"
+        "votes": 0,
+        "userVote": null
       },
       {
         "id": "lkxu5c8r2",
@@ -56,6 +56,15 @@
         "timestamp": "2026-10-16T08:00:16.582Z",
         "votes": 1,
         "userVote": "up"
+      },
+      {
+        "id": "ldjjr1222",
+        "parentId": "ikv3s2eir",
+        "author": "Sandeep Kumar",
+        "content": "Yes Max",
+        "timestamp": "2026-10-16T08:00:55.872Z",
+        "votes": 0,
+        "userVote": null
       }
     ]
   }
