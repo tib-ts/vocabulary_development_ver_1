@@ -100,7 +100,9 @@
         ],
         "votes": 0,
         "userVote": null,
-        "upvotes": [],
+        "upvotes": [
+          "Mark"
+        ],
         "downvotes": []
       },
       {
