@@ -55,7 +55,12 @@
         "content": "first test",
         "timestamp": "2026-10-16T08:00:16.582Z",
         "votes": 0,
-        "userVote": null
+        "userVote": null,
+        "reactions": {
+          "celebration": [
+            "Felix TEST"
+          ]
+        }
       },
       {
         "id": "ldjjr1222",
