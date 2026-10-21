@@ -5,14 +5,6 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<https://example.com#24c12879-0a5d-4b9c-b459-10183ea8c21c> rdf:type rdfs:Resource;
-    dcterms:identifier "24c12879-0a5d-4b9c-b459-10183ea8c21c";
-    rdfs:label "pain";
-    dcterms:description "Pain is an unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sio/terms?iri=http%3A%2F%2Fsemanticscience.org%2Fresource%2FSIO_000951";
-    ex:status "draft";
-    dcterms:created "2026-10-21"^^xsd:date;
-    dcterms:modified "2026-10-21T15:18:15.757Z"^^xsd:dateTime.
 <https://example.com#6c36ea58-bb7f-4860-9b3a-a256c33ff6f6> rdf:type rdfs:Resource;
     dcterms:identifier "6c36ea58-bb7f-4860-9b3a-a256c33ff6f6";
     rdfs:label "test";
