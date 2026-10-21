@@ -5,14 +5,6 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<https://example.com#29a3329a-9f38-4a88-83f7-ea2002a216bc> rdf:type rdfs:Resource;
-    dcterms:identifier "29a3329a-9f38-4a88-83f7-ea2002a216bc";
-    rdfs:label "stove";
-    dcterms:description "A chamber within which a fuel-air mixture is burned to provide heat, the heat itself being radiated outward from the chamber; used for space heating, process-fluid heating, and steel blast furnaces.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/gemet/terms?iri=http%3A%2F%2Fwww.eionet.europa.eu%2Fgemet%2Fconcept%2F8122";
-    ex:status "draft";
-    dcterms:created "2026-10-15"^^xsd:date;
-    dcterms:modified "2026-10-15T08:27:51.142Z"^^xsd:dateTime.
 <https://example.com#24c12879-0a5d-4b9c-b459-10183ea8c21c> rdf:type rdfs:Resource;
     dcterms:identifier "24c12879-0a5d-4b9c-b459-10183ea8c21c";
     rdfs:label "pain";
