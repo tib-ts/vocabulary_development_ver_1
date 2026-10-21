@@ -13,3 +13,11 @@
     ex:status "draft";
     dcterms:created "2026-10-21"^^xsd:date;
     dcterms:modified "2026-10-21T15:55:12.687Z"^^xsd:dateTime.
+<https://example.com#1368b965-9170-4f3e-a0c4-79f8bcda3615> rdf:type rdfs:Resource;
+    dcterms:identifier "1368b965-9170-4f3e-a0c4-79f8bcda3615";
+    rdfs:label "car";
+    dcterms:description "A car is a wheeled motor vehicle used primarily for the transportation of human passengers. Most definitions of the term specify that cars are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels, and to be constructed principally for the transport of people rather than goods.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/envo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FENVO_01000605";
+    ex:status "draft";
+    dcterms:created "2026-10-21"^^xsd:date;
+    dcterms:modified "2026-10-21T16:12:22.405Z"^^xsd:dateTime.
