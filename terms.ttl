@@ -30,11 +30,3 @@
     ex:status "draft";
     dcterms:created "2026-10-15"^^xsd:date;
     dcterms:modified "2026-10-15T08:27:51.142Z"^^xsd:dateTime.
-<https://example.com#213ee866-eb76-4b03-9410-5bdf68b6fccb> rdf:type rdfs:Resource;
-    dcterms:identifier "213ee866-eb76-4b03-9410-5bdf68b6fccb";
-    rdfs:label "TES";
-    dcterms:description "A Good's buffer substance that is <em>N</em>-tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid or its zwitterionic form.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/chebi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FCHEBI_39035";
-    ex:status "draft";
-    dcterms:created "2026-10-21"^^xsd:date;
-    dcterms:modified "2026-10-21T15:17:06.330Z"^^xsd:dateTime.
