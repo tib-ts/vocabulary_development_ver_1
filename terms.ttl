@@ -14,14 +14,6 @@
     ex:status "draft";
     dcterms:created "2026-06-04"^^xsd:date;
     dcterms:modified "2026-10-21T10:34:29.538Z"^^xsd:dateTime.
-<https://example.com#e99422dc-ec23-433f-86c1-768c3f1f55a4> rdf:type rdfs:Resource;
-    dcterms:identifier "e99422dc-ec23-433f-86c1-768c3f1f55a4";
-    rdfs:label "graph";
-    dcterms:description "A diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way. [IAO]";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/afo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FIAO_0000038";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T15:15:38.334Z"^^xsd:dateTime.
 <https://example.com#29a3329a-9f38-4a88-83f7-ea2002a216bc> rdf:type rdfs:Resource;
     dcterms:identifier "29a3329a-9f38-4a88-83f7-ea2002a216bc";
     rdfs:label "stove";
