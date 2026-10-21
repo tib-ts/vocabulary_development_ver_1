@@ -5,15 +5,6 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<https://example.com#b9842f26-24d1-4ed5-bce0-e43248645d6b> rdf:type rdfs:Resource;
-    dcterms:identifier "b9842f26-24d1-4ed5-bce0-e43248645d6b";
-    rdfs:label "weathers";
-    skos:altLabel "normal alt label";
-    dcterms:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FphenAtmo%2FWeather";
-    ex:status "draft";
-    dcterms:created "2026-06-04"^^xsd:date;
-    dcterms:modified "2026-10-21T10:34:29.538Z"^^xsd:dateTime.
 <https://example.com#29a3329a-9f38-4a88-83f7-ea2002a216bc> rdf:type rdfs:Resource;
     dcterms:identifier "29a3329a-9f38-4a88-83f7-ea2002a216bc";
     rdfs:label "stove";
