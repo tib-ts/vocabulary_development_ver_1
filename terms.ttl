@@ -32,10 +32,10 @@
     dcterms:modified "2026-10-15T08:27:51.142Z"^^xsd:dateTime.
 <https://example.com#bdb97dea-86e3-48f7-ad2a-79206128cfeb> rdf:type rdfs:Resource;
     dcterms:identifier "bdb97dea-86e3-48f7-ad2a-79206128cfeb";
-    rdfs:label "Tests";
+    rdfs:label "Test";
     skos:altLabel "another day", "localhost";
     dcterms:description "Not Available";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/glass/terms?iri=https%3A%2F%2Fmaterial-digital.de%2Fpmdco%2FTest";
     ex:status "accept";
     dcterms:created "2026-10-15"^^xsd:date;
-    dcterms:modified "2026-10-21T10:52:43.071Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-21T10:53:58.345Z"^^xsd:dateTime.
