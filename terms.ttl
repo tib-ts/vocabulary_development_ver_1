@@ -5,6 +5,7 @@
 @prefix ex: <https://example.com/ns#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
+
 <https://example.com#25227627-87cf-4de6-ab1f-685a31ab2d94> rdf:type rdfs:Resource;
     dcterms:identifier "25227627-87cf-4de6-ab1f-685a31ab2d94";
     rdfs:label "Artistic Intelligence";
