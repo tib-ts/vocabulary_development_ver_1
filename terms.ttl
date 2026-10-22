@@ -21,3 +21,11 @@
     ex:status "draft";
     dcterms:created "2026-10-21"^^xsd:date;
     dcterms:modified "2026-10-21T16:12:22.405Z"^^xsd:dateTime.
+<https://example.com#ff4f9740-2066-46d8-8e27-fa527b33ef79> rdf:type rdfs:Resource;
+    dcterms:identifier "ff4f9740-2066-46d8-8e27-fa527b33ef79";
+    rdfs:label "weather";
+    dcterms:description "The day-to-day meteorological conditions, especially temperature, cloudiness, and rainfall, affecting a specific place.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/gemet/terms?iri=http%3A%2F%2Fwww.eionet.europa.eu%2Fgemet%2Fconcept%2F9269";
+    ex:status "draft";
+    dcterms:created "2026-10-22"^^xsd:date;
+    dcterms:modified "2026-10-22T08:10:26.357Z"^^xsd:dateTime.
