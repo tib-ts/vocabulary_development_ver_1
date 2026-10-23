@@ -29,3 +29,11 @@
     ex:status "accept";
     dcterms:created "2026-10-22"^^xsd:date;
     dcterms:modified "2026-10-22T08:10:26.357Z"^^xsd:dateTime.
+<https://example.com#4375a60f-a4a4-4c8d-8df2-ba683748d14c> rdf:type rdfs:Resource;
+    dcterms:identifier "4375a60f-a4a4-4c8d-8df2-ba683748d14c";
+    rdfs:label "weather";
+    dcterms:description "Environmental variability which inheres in an astronomical body part or in outer space.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/envo2021/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FENVO_01001078";
+    ex:status "draft";
+    dcterms:created "2026-10-23"^^xsd:date;
+    dcterms:modified "2026-10-23T09:49:40.852Z"^^xsd:dateTime.
