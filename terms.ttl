@@ -21,3 +21,11 @@
     ex:status "accept";
     dcterms:created "2026-10-22"^^xsd:date;
     dcterms:modified "2026-10-22T08:10:26.357Z"^^xsd:dateTime.
+<https://example.com#cc62adf5-7d68-413a-8be5-e0785df6e139> rdf:type rdfs:Resource;
+    dcterms:identifier "cc62adf5-7d68-413a-8be5-e0785df6e139";
+    rdfs:label "Class";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/datatype/terms?iri=http%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23Class";
+    ex:status "draft";
+    dcterms:created "2026-10-26"^^xsd:date;
+    dcterms:modified "2026-10-26T14:39:11.714Z"^^xsd:dateTime.
