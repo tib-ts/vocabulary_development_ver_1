@@ -21,3 +21,11 @@
     ex:status "accept";
     dcterms:created "2026-10-22"^^xsd:date;
     dcterms:modified "2026-10-22T08:10:26.357Z"^^xsd:dateTime.
+<https://example.com#5deda9bc-5d3f-4b77-8445-28277097b2cb> rdf:type rdfs:Resource;
+    dcterms:identifier "5deda9bc-5d3f-4b77-8445-28277097b2cb";
+    rdfs:label "car";
+    dcterms:description "A four-wheeled motor vehicle used for land transport, usually propelled by a gasoline or diesel internal combustion engine.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/gemet/terms?iri=http%3A%2F%2Fwww.eionet.europa.eu%2Fgemet%2Fconcept%2F1148";
+    ex:status "draft";
+    dcterms:created "2026-10-26"^^xsd:date;
+    dcterms:modified "2026-10-26T16:25:42.840Z"^^xsd:dateTime.
