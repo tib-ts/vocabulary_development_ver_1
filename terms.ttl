@@ -53,14 +53,6 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T09:06:05.187Z"^^xsd:dateTime.
-<https://example.com#17b87cda-82b4-4919-a406-67356adbbaa0> rdf:type rdfs:Resource;
-    dcterms:identifier "17b87cda-82b4-4919-a406-67356adbbaa0";
-    rdfs:label "Line";
-    dcterms:description "Mathematical representation of dislocation as 'Line'. An instance of mathematical representation of a dislocation line is an oriented curve parameterized by its arc length.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sim/terms?iri=https%3A%2F%2Fpurls.helmholtz-metadaten.de%2Fdisos%2Fdiso%23Line";
-    ex:status "draft";
-    dcterms:created "2026-10-27"^^xsd:date;
-    dcterms:modified "2026-10-27T09:07:11.610Z"^^xsd:dateTime.
 <https://example.com#6845eeb8-60ba-407b-96dc-9d9dd960fa66> rdf:type rdfs:Resource;
     dcterms:identifier "6845eeb8-60ba-407b-96dc-9d9dd960fa66";
     rdfs:label "Manufacturer";
