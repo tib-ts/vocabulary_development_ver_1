@@ -63,3 +63,11 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T09:42:20.845Z"^^xsd:dateTime.
+<https://example.com#0b95d535-3707-4412-aede-16ab914c9806> rdf:type rdfs:Resource;
+    dcterms:identifier "0b95d535-3707-4412-aede-16ab914c9806";
+    rdfs:label "Weather";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/stw/terms?iri=http%3A%2F%2Fzbw.eu%2Fstw%2Fdescriptor%2F19622-6";
+    ex:status "draft";
+    dcterms:created "2026-10-27"^^xsd:date;
+    dcterms:modified "2026-10-27T13:39:52.472Z"^^xsd:dateTime.
