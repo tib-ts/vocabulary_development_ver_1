@@ -12,13 +12,6 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T11:44:04.178Z"^^xsd:dateTime.
-<https://example.com#8d1ded7e-d085-4748-8400-09f71d5187f7> rdf:type rdfs:Resource;
-    dcterms:identifier "8d1ded7e-d085-4748-8400-09f71d5187f7";
-    rdfs:label "Thermal insulation";
-    dcterms:description "The reduction of heat exchange between a system and its surroundings through appropriate measures or materials";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T11:44:51.309Z"^^xsd:dateTime.
 <https://example.com#1fb39bfc-4c0a-477f-9a31-c6af91d5bf01> rdf:type rdfs:Resource;
     dcterms:identifier "1fb39bfc-4c0a-477f-9a31-c6af91d5bf01";
     rdfs:label "Insulation";
