@@ -495,7 +495,20 @@
         "timestamp": "2026-10-27T13:37:33.217Z",
         "upvotes": [],
         "downvotes": []
+      },
+      {
+        "id": "espzrqzp1",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "new",
+        "timestamp": "2026-10-27T13:41:24.308Z",
+        "upvotes": [],
+        "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "0b95d535-3707-4412-aede-16ab914c9806",
+    "comments": []
   }
 ]
