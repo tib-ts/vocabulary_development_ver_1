@@ -85,3 +85,11 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T09:23:53.466Z"^^xsd:dateTime.
+<https://example.com#3d54b848-6f54-48c6-9cb9-02bdc5451c6c> rdf:type rdfs:Resource;
+    dcterms:identifier "3d54b848-6f54-48c6-9cb9-02bdc5451c6c";
+    rdfs:label "Million";
+    dcterms:description "A natural number following 999999 and preceding 1000001 and the quantity that it denotes: one thousand thousands.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C67238";
+    ex:status "draft";
+    dcterms:created "2026-10-27"^^xsd:date;
+    dcterms:modified "2026-10-27T09:26:16.786Z"^^xsd:dateTime.
