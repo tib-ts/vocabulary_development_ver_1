@@ -85,14 +85,6 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T09:26:16.786Z"^^xsd:dateTime.
-<https://example.com#71926221-5982-48e7-afc4-34f4dfd8b1d7> rdf:type rdfs:Resource;
-    dcterms:identifier "71926221-5982-48e7-afc4-34f4dfd8b1d7";
-    rdfs:label "bath";
-    dcterms:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bau/terms?iri=https%3A%2F%2Fterminology.fraunhofer.de%2Fvoc%2Fbau%23B10000066138_4";
-    ex:status "draft";
-    dcterms:created "2026-10-27"^^xsd:date;
-    dcterms:modified "2026-10-27T09:26:58.172Z"^^xsd:dateTime.
 <https://example.com#89e46caa-f926-4bb3-b6b9-5e4211af9cb0> rdf:type rdfs:Resource;
     dcterms:identifier "89e46caa-f926-4bb3-b6b9-5e4211af9cb0";
     rdfs:label "maintenance";
