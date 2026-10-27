@@ -26,13 +26,6 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T11:45:46.032Z"^^xsd:dateTime.
-<https://example.com#d4adb850-9ae2-45f5-bf89-a33d0b96b844> rdf:type rdfs:Resource;
-    dcterms:identifier "d4adb850-9ae2-45f5-bf89-a33d0b96b844";
-    rdfs:label "Thermal conductivity";
-    dcterms:description "A material property that indicates how well a substance conducts heat";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T11:46:04.202Z"^^xsd:dateTime.
 <https://example.com#dc5b7254-ab10-4919-8175-d88e2b95a483> rdf:type rdfs:Resource;
     dcterms:identifier "dc5b7254-ab10-4919-8175-d88e2b95a483";
     rdfs:label "Temperature change";
