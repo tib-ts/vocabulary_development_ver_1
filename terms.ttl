@@ -72,3 +72,9 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T09:42:20.845Z"^^xsd:dateTime.
+<https://example.com#6c27d971-ee81-4bae-944c-315bd058bd13> rdf:type rdfs:Resource;
+    dcterms:identifier "6c27d971-ee81-4bae-944c-315bd058bd13";
+    rdfs:label "Mde";
+    dcterms:description "dq";
+    dcterms:created "2026-10-27"^^xsd:date;
+    dcterms:modified "2026-10-27T12:16:48.629Z"^^xsd:dateTime.
