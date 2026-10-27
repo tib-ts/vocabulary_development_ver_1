@@ -50,12 +50,12 @@
 <https://example.com#03e7bb13-cd6d-406f-a252-0808df2be5d5> rdf:type rdfs:Resource;
     dcterms:identifier "03e7bb13-cd6d-406f-a252-0808df2be5d5";
     rdfs:label "doors";
-    skos:altLabel "Tür@de";
+    skos:altLabel "Tür@de", "";
     dcterms:description "A manufactured product which is composed of a hinged, sliding, or revolving barrier which is installed at the entrance to a building, room, vehicle, or in the framework of a cabinet.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/envo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FENVO_03501220";
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
-    dcterms:modified "2026-10-27T11:46:09.037Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-27T11:57:43.798Z"^^xsd:dateTime.
 <https://example.com#3d54b848-6f54-48c6-9cb9-02bdc5451c6c> rdf:type rdfs:Resource;
     dcterms:identifier "3d54b848-6f54-48c6-9cb9-02bdc5451c6c";
     rdfs:label "Millions";
