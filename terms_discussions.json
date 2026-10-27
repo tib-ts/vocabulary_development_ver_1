@@ -504,6 +504,18 @@
         "timestamp": "2026-10-27T13:41:24.308Z",
         "upvotes": [],
         "downvotes": []
+      },
+      {
+        "id": "cew2qe0a4",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "@System ADMIN mentioning",
+        "timestamp": "2026-10-27T13:42:11.416Z",
+        "mentionedUsers": [
+          "System ADMIN"
+        ],
+        "upvotes": [],
+        "downvotes": []
       }
     ]
   },
