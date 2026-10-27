@@ -37,3 +37,11 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T08:40:50.766Z"^^xsd:dateTime.
+<https://example.com#6e5678ae-f101-4cad-8dba-9baafe2d4ef5> rdf:type rdfs:Resource;
+    dcterms:identifier "6e5678ae-f101-4cad-8dba-9baafe2d4ef5";
+    rdfs:label "Sun";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bk/terms?iri=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F39.51";
+    ex:status "draft";
+    dcterms:created "2026-10-27"^^xsd:date;
+    dcterms:modified "2026-10-27T08:54:03.903Z"^^xsd:dateTime.
