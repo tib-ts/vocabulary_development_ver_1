@@ -47,10 +47,3 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T11:46:20.307Z"^^xsd:dateTime.
-<https://example.com#08fdd0a4-b54d-42b1-a8e7-37f3cb091691> rdf:type rdfs:Resource;
-    dcterms:identifier "08fdd0a4-b54d-42b1-a8e7-37f3cb091691";
-    rdfs:label "Energy efficiency";
-    dcterms:description "The ratio between the desired benefit and the energy input required to achieve it";
-    ex:status "draft";
-    dcterms:created "2026-10-14"^^xsd:date;
-    dcterms:modified "2026-10-14T11:46:49.028Z"^^xsd:dateTime.
