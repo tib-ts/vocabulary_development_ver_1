@@ -71,3 +71,11 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T13:39:52.472Z"^^xsd:dateTime.
+<https://example.com#e370fda3-5b7b-46da-ab0d-2281b92e6f6b> rdf:type rdfs:Resource;
+    dcterms:identifier "e370fda3-5b7b-46da-ab0d-2281b92e6f6b";
+    rdfs:label "time";
+    dcterms:description "1) The dimension of the physical universe which, at a given place, orders the sequence of events. \n2) A designated instant in this sequence, as the time of day. Also known as epoch.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/gemet/terms?iri=http%3A%2F%2Fwww.eionet.europa.eu%2Fgemet%2Fconcept%2F8487";
+    ex:status "draft";
+    dcterms:created "2026-10-27"^^xsd:date;
+    dcterms:modified "2026-10-27T13:44:52.143Z"^^xsd:dateTime.
