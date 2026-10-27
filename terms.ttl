@@ -24,11 +24,12 @@
 <https://example.com#5deda9bc-5d3f-4b77-8445-28277097b2cb> rdf:type rdfs:Resource;
     dcterms:identifier "5deda9bc-5d3f-4b77-8445-28277097b2cb";
     rdfs:label "car";
+    skos:altLabel "da";
     dcterms:description "A four-wheeled motor vehicle used for land transport, usually propelled by a gasoline or diesel internal combustion engine.";
     rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/gemet/terms?iri=http%3A%2F%2Fwww.eionet.europa.eu%2Fgemet%2Fconcept%2F1148";
     ex:status "draft";
     dcterms:created "2026-10-26"^^xsd:date;
-    dcterms:modified "2026-10-26T16:25:42.840Z"^^xsd:dateTime.
+    dcterms:modified "2026-10-27T11:56:34.865Z"^^xsd:dateTime.
 <https://example.com#f484917e-10e8-4da2-aaec-660929759cf7> rdf:type rdfs:Resource;
     dcterms:identifier "f484917e-10e8-4da2-aaec-660929759cf7";
     rdfs:label "test";
