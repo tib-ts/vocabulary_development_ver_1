@@ -93,3 +93,11 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T09:26:58.172Z"^^xsd:dateTime.
+<https://example.com#89e46caa-f926-4bb3-b6b9-5e4211af9cb0> rdf:type rdfs:Resource;
+    dcterms:identifier "89e46caa-f926-4bb3-b6b9-5e4211af9cb0";
+    rdfs:label "maintenance";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sweet/terms?iri=http%3A%2F%2Fsweetontology.net%2FphenBiol%2FMaintenance";
+    ex:status "draft";
+    dcterms:created "2026-10-27"^^xsd:date;
+    dcterms:modified "2026-10-27T09:29:26.736Z"^^xsd:dateTime.
