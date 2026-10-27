@@ -101,3 +101,11 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T09:29:26.736Z"^^xsd:dateTime.
+<https://example.com#4d3d71d5-ee39-4f94-81d9-f25e1d2883b4> rdf:type rdfs:Resource;
+    dcterms:identifier "4d3d71d5-ee39-4f94-81d9-f25e1d2883b4";
+    rdfs:label "temporal";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/et/terms?iri=http%3A%2F%2Fvocabs.lter-europe.net%2FEnvThes%2F22019";
+    ex:status "draft";
+    dcterms:created "2026-10-27"^^xsd:date;
+    dcterms:modified "2026-10-27T09:42:20.845Z"^^xsd:dateTime.
