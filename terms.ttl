@@ -38,15 +38,6 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T08:40:50.766Z"^^xsd:dateTime.
-<https://example.com#6e5678ae-f101-4cad-8dba-9baafe2d4ef5> rdf:type rdfs:Resource;
-    dcterms:identifier "6e5678ae-f101-4cad-8dba-9baafe2d4ef5";
-    rdfs:label "Sunsqw";
-    skos:altLabel "sw", "csas", "zxc";
-    dcterms:description "Not Available";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bk/terms?iri=http%3A%2F%2Furi.gbv.de%2Fterminology%2Fbk%2F39.51";
-    ex:status "draft";
-    dcterms:created "2026-10-27"^^xsd:date;
-    dcterms:modified "2026-10-27T13:15:22.477Z"^^xsd:dateTime.
 <https://example.com#03e7bb13-cd6d-406f-a252-0808df2be5d5> rdf:type rdfs:Resource;
     dcterms:identifier "03e7bb13-cd6d-406f-a252-0808df2be5d5";
     rdfs:label "doors";
