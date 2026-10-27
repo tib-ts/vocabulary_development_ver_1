@@ -45,14 +45,6 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T08:54:03.903Z"^^xsd:dateTime.
-<https://example.com#6845eeb8-60ba-407b-96dc-9d9dd960fa66> rdf:type rdfs:Resource;
-    dcterms:identifier "6845eeb8-60ba-407b-96dc-9d9dd960fa66";
-    rdfs:label "Manufacturer";
-    dcterms:description "Organisation that manufactures asset products.";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/sargon2/terms?iri=http%3A%2F%2Fwww.iec.ch%2FTC57%2FCIM%23Manufacturer";
-    ex:status "draft";
-    dcterms:created "2026-10-27"^^xsd:date;
-    dcterms:modified "2026-10-27T09:13:44.177Z"^^xsd:dateTime.
 <https://example.com#03e7bb13-cd6d-406f-a252-0808df2be5d5> rdf:type rdfs:Resource;
     dcterms:identifier "03e7bb13-cd6d-406f-a252-0808df2be5d5";
     rdfs:label "door";
