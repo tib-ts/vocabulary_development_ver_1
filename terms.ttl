@@ -53,3 +53,11 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T08:54:24.387Z"^^xsd:dateTime.
+<https://example.com#e612b74c-67de-42a0-8015-fcca2abd39ac> rdf:type rdfs:Resource;
+    dcterms:identifier "e612b74c-67de-42a0-8015-fcca2abd39ac";
+    rdfs:label "Lineage";
+    dcterms:description "Descent in a line from a common progenitor or source.";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C60792";
+    ex:status "draft";
+    dcterms:created "2026-10-27"^^xsd:date;
+    dcterms:modified "2026-10-27T09:06:05.187Z"^^xsd:dateTime.
