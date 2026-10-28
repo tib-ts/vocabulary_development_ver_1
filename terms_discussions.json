@@ -533,20 +533,13 @@
   },
   {
     "resourceId": "0b95d535-3707-4412-aede-16ab914c9806",
-    "comments": []
-  },
-  {
-    "resourceId": "57c59b07-657d-4540-8a9f-a646871c5b74",
     "comments": [
       {
-        "id": "cdtvvjht7",
+        "id": "1vro88raf",
         "parentId": null,
         "author": "System ADMIN",
-        "content": "@System ADMIN notify",
-        "timestamp": "2026-10-28T10:10:53.927Z",
-        "mentionedUsers": [
-          "System ADMIN"
-        ],
+        "content": "something",
+        "timestamp": "2026-10-28T10:12:34.254Z",
         "upvotes": [],
         "downvotes": []
       }
