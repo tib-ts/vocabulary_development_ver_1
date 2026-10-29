@@ -51,3 +51,9 @@
     dcterms:description "A material property that indicates how well a substance conducts heat";
     dcterms:created "2026-10-29"^^xsd:date;
     dcterms:modified "2026-10-29T09:27:26.721Z"^^xsd:dateTime.
+<https://example.com#deb74f81-d443-4ca0-83b0-bb159012f6e1> rdf:type rdfs:Resource;
+    dcterms:identifier "deb74f81-d443-4ca0-83b0-bb159012f6e1";
+    rdfs:label "Thermodynamics";
+    dcterms:description "A branch of physics and engineering that studies heat, temperature, energy and their transformation";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:28:25.624Z"^^xsd:dateTime.
