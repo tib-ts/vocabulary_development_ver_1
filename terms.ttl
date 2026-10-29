@@ -57,3 +57,9 @@
     dcterms:description "A branch of physics and engineering that studies heat, temperature, energy and their transformation";
     dcterms:created "2026-10-29"^^xsd:date;
     dcterms:modified "2026-10-29T09:28:25.624Z"^^xsd:dateTime.
+<https://example.com#0f59239a-2d3d-46cf-ac5e-f2c23920137e> rdf:type rdfs:Resource;
+    dcterms:identifier "0f59239a-2d3d-46cf-ac5e-f2c23920137e";
+    rdfs:label "Energy efficiency";
+    dcterms:description "The ratio between the desired benefit and the energy input required to achieve it";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:28:56.711Z"^^xsd:dateTime.
