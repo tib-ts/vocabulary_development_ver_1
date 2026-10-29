@@ -39,3 +39,9 @@
     dcterms:description "The transfer of thermal energy from a system to its cooler surroundings.";
     dcterms:created "2026-10-29"^^xsd:date;
     dcterms:modified "2026-10-29T09:10:52.759Z"^^xsd:dateTime.
+<https://example.com#b97a999e-7505-4a57-9f29-7cf16e4caa41> rdf:type rdfs:Resource;
+    dcterms:identifier "b97a999e-7505-4a57-9f29-7cf16e4caa41";
+    rdfs:label "Thermal insulation";
+    dcterms:description "The reduction of heat exchange between a system and its surroundings through appropriate measures or materials";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:27:04.122Z"^^xsd:dateTime.
