@@ -33,3 +33,9 @@
     ex:status "draft";
     dcterms:created "2026-10-14"^^xsd:date;
     dcterms:modified "2026-10-14T11:46:20.307Z"^^xsd:dateTime.
+<https://example.com#bdcfe862-f639-4939-9914-0498248b9df7> rdf:type rdfs:Resource;
+    dcterms:identifier "bdcfe862-f639-4939-9914-0498248b9df7";
+    rdfs:label "Heat loss";
+    dcterms:description "The transfer of thermal energy from a system to its cooler surroundings.";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:10:52.759Z"^^xsd:dateTime.
