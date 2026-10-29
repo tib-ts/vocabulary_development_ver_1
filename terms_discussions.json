@@ -148,5 +148,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "6756b2f6-3a52-45df-a34d-9147c7cbdabb",
+    "comments": [
+      {
+        "id": "on49jxzpj",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "I am unsure if this term describe the pure material property of the insulation layer, or the actual behavior inside the measurement container?",
+        "timestamp": "2026-10-29T09:43:39.170Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
