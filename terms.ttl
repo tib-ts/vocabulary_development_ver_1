@@ -45,3 +45,9 @@
     dcterms:description "The reduction of heat exchange between a system and its surroundings through appropriate measures or materials";
     dcterms:created "2026-10-29"^^xsd:date;
     dcterms:modified "2026-10-29T09:27:04.122Z"^^xsd:dateTime.
+<https://example.com#6756b2f6-3a52-45df-a34d-9147c7cbdabb> rdf:type rdfs:Resource;
+    dcterms:identifier "6756b2f6-3a52-45df-a34d-9147c7cbdabb";
+    rdfs:label "Thermal conductivity";
+    dcterms:description "A material property that indicates how well a substance conducts heat";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:27:26.721Z"^^xsd:dateTime.
