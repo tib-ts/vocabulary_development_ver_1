@@ -23,3 +23,9 @@
     dcterms:description "CUSTOMER DATA includes all information necessary to manage orders—such as identifiers, addresses, logistics preferences, and contractual conditions.";
     dcterms:created "2026-11-02"^^xsd:date;
     dcterms:modified "2026-11-02T08:06:00.945Z"^^xsd:dateTime.
+<https://example.com#bd868a8d-dfac-41d3-a36a-81921602684a> rdf:type rdfs:Resource;
+    dcterms:identifier "bd868a8d-dfac-41d3-a36a-81921602684a";
+    rdfs:label "Demand";
+    dcterms:description "Demand represents the quantity of products requested by customers.";
+    dcterms:created "2026-11-02"^^xsd:date;
+    dcterms:modified "2026-11-02T08:11:27.900Z"^^xsd:dateTime.
