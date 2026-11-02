@@ -29,3 +29,9 @@
     dcterms:description "Demand represents the quantity of products requested by customers.";
     dcterms:created "2026-11-02"^^xsd:date;
     dcterms:modified "2026-11-02T08:11:27.900Z"^^xsd:dateTime.
+<https://example.com#16c40e41-dd1e-4092-a934-a57358c3b293> rdf:type rdfs:Resource;
+    dcterms:identifier "16c40e41-dd1e-4092-a934-a57358c3b293";
+    rdfs:label "Past Demand";
+    dcterms:description "Past demand is the historical record of quantities of a product or service that customers requested or purchased over prior time periods, used as the basis for forecasting and planning";
+    dcterms:created "2026-11-02"^^xsd:date;
+    dcterms:modified "2026-11-02T08:14:00.593Z"^^xsd:dateTime.
