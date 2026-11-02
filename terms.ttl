@@ -70,3 +70,9 @@
     ex:status "draft";
     dcterms:created "2026-10-27"^^xsd:date;
     dcterms:modified "2026-10-27T13:44:52.143Z"^^xsd:dateTime.
+<https://example.com#f0b4b8ec-6564-4759-962a-d966cf0cac4c> rdf:type rdfs:Resource;
+    dcterms:identifier "f0b4b8ec-6564-4759-962a-d966cf0cac4c";
+    rdfs:label "Bullwhip effect";
+    dcterms:description "Supply-chain phenomenon where small changes in customer demand lead to larger fluctuations in orders ";
+    dcterms:created "2026-11-02"^^xsd:date;
+    dcterms:modified "2026-11-02T11:52:57.639Z"^^xsd:dateTime.
