@@ -41,3 +41,9 @@
     dcterms:description "The Pork Cycle is a metaphor for boom-and-bust investment patterns caused by delayed supply responses to demand conditions. It illustrates how shortages can trigger overinvestment, which later results in overcapacity, price declines, and underinvestment, perpetuating the cycle. This phenomenon typically occurs in industries where capacity has a limited lifetime (e.g., agriculture) or where growth and uncertainty make forecasts difficult (e.g., semiconductors)";
     dcterms:created "2026-11-02"^^xsd:date;
     dcterms:modified "2026-11-02T08:16:13.076Z"^^xsd:dateTime.
+<https://example.com#e9d90522-3eac-461e-a9f0-d06544c700cf> rdf:type rdfs:Resource;
+    dcterms:identifier "e9d90522-3eac-461e-a9f0-d06544c700cf";
+    rdfs:label "Supply Chain";
+    dcterms:description "A supply chain is the network of organizations, resources, activities, and technologies involved in the production and delivery of a product from raw materials to the final customer. Supply chain management issues have become increasingly important to the semiconductor industry due to the global distribution of facilities and increasing numbers of firms specialising in particular stages.";
+    dcterms:created "2026-11-02"^^xsd:date;
+    dcterms:modified "2026-11-02T08:18:03.064Z"^^xsd:dateTime.
