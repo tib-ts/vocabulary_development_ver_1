@@ -11,3 +11,9 @@
     dcterms:description "The bullwhip effect refers to demand distortions that amplify as information moves upstream in the supply chain, often due to forecast updates, order batching, and demand signal processing.";
     dcterms:created "2026-11-02"^^xsd:date;
     dcterms:modified "2026-11-02T08:02:34.129Z"^^xsd:dateTime.
+<https://example.com#4b3b83dd-33b5-4d31-b352-abfb5a5d7d47> rdf:type rdfs:Resource;
+    dcterms:identifier "4b3b83dd-33b5-4d31-b352-abfb5a5d7d47";
+    rdfs:label "Capacity";
+    dcterms:description "CAPACITY with respect to the Domain Semiconductor and Supply Chains Containing Semiconductor is the maximum number of products or a group of products a machine or a group of machines can produce. As soon as a machine has free capacity: 1. all lots which belongs to a priority class have to be dispatched immediately according to their priority rank.";
+    dcterms:created "2026-11-02"^^xsd:date;
+    dcterms:modified "2026-11-02T08:05:16.422Z"^^xsd:dateTime.
