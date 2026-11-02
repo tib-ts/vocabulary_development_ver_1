@@ -31,38 +31,6 @@
     ]
   },
   {
-    "resourceId": "d3a8435f-9000-4357-a7ec-a3530165821a",
-    "comments": [
-      {
-        "id": "k2frhmi7b",
-        "author": "System ADMIN",
-        "content": "not sure if this is a good definition i copied it from: https://dictionary.cambridge.org/dictionary/english/soft-skills ",
-        "timestamp": "2026-06-01T13:12:32.765Z"
-      },
-      {
-        "id": "75lwsyzxj",
-        "parentId": null,
-        "author": "System ADMIN",
-        "content": "@TIB TS see?",
-        "timestamp": "2026-10-30T19:01:08.363Z",
-        "mentionedUsers": [
-          "TIB TS"
-        ],
-        "upvotes": [],
-        "downvotes": []
-      },
-      {
-        "id": "vodnrz3jy",
-        "parentId": null,
-        "author": "TIB TS",
-        "content": "new comment",
-        "timestamp": "2026-10-30T19:03:06.887Z",
-        "upvotes": [],
-        "downvotes": []
-      }
-    ]
-  },
-  {
     "resourceId": "7bacfe97-d67e-4bff-9286-537ecbfd0e5c",
     "comments": [
       {
@@ -70,6 +38,20 @@
         "author": "felix engel",
         "content": "in todays meeting we discussed what the meaning really is: a methodology,... ",
         "timestamp": "2026-06-11T10:32:09.606Z"
+      }
+    ]
+  },
+  {
+    "resourceId": "2cde932d-e1c3-4dbb-aa9a-2eb0475f5ecf",
+    "comments": [
+      {
+        "id": "egfvos8dl",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "Welcome! We are currently discussing whether our baseline definition for the Bullwhip Effect fully captures all relevant drivers. Open questions for discussion: * Should we explicitly mention inventory management policies alongside forecasting updates?   * Would it be more accurate to refine \"demand distortions\" into \"distortions in the perception of demand\"?   What is your perspective? Feel free to reply below or propose an update to the definition! ",
+        "timestamp": "2026-11-02T08:05:08.825Z",
+        "upvotes": [],
+        "downvotes": []
       }
     ]
   }
