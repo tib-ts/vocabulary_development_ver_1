@@ -96,5 +96,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "16c40e41-dd1e-4092-a934-a57358c3b293",
+    "comments": [
+      {
+        "id": "qbtmr2sho",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "We are refining the definition of Past Demand for our shared supply chain vocabulary. Key discussion points under review: * Units of Measurement: Should the definition strictly refer to quantities, or remain open to monetary values ($ / €)?   * Requested vs. Purchased: In allocation scenarios or capacity bottlenecks, requested demand often differs significantly from actual purchases. Should both be captured explicitly?   * Naming & Multidimensionality: Does \"Past Demand\" imply historical actuals, or should we account for past forecast snapshots?   What is your perspective? Reply below to share your thoughts before we move to the final consensus vote!",
+        "timestamp": "2026-11-02T08:16:10.210Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
