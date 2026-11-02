@@ -35,3 +35,9 @@
     dcterms:description "Past demand is the historical record of quantities of a product or service that customers requested or purchased over prior time periods, used as the basis for forecasting and planning";
     dcterms:created "2026-11-02"^^xsd:date;
     dcterms:modified "2026-11-02T08:14:00.593Z"^^xsd:dateTime.
+<https://example.com#fabb0d0f-9a44-42d3-9b59-ad845f64eb8e> rdf:type rdfs:Resource;
+    dcterms:identifier "fabb0d0f-9a44-42d3-9b59-ad845f64eb8e";
+    rdfs:label "Pork Cycle";
+    dcterms:description "The Pork Cycle is a metaphor for boom-and-bust investment patterns caused by delayed supply responses to demand conditions. It illustrates how shortages can trigger overinvestment, which later results in overcapacity, price declines, and underinvestment, perpetuating the cycle. This phenomenon typically occurs in industries where capacity has a limited lifetime (e.g., agriculture) or where growth and uncertainty make forecasts difficult (e.g., semiconductors)";
+    dcterms:created "2026-11-02"^^xsd:date;
+    dcterms:modified "2026-11-02T08:16:13.076Z"^^xsd:dateTime.
