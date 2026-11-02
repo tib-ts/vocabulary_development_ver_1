@@ -17,3 +17,9 @@
     dcterms:description "CAPACITY with respect to the Domain Semiconductor and Supply Chains Containing Semiconductor is the maximum number of products or a group of products a machine or a group of machines can produce. As soon as a machine has free capacity: 1. all lots which belongs to a priority class have to be dispatched immediately according to their priority rank.";
     dcterms:created "2026-11-02"^^xsd:date;
     dcterms:modified "2026-11-02T08:05:16.422Z"^^xsd:dateTime.
+<https://example.com#294e84a1-ebe9-4db0-8704-c5c28dfd309f> rdf:type rdfs:Resource;
+    dcterms:identifier "294e84a1-ebe9-4db0-8704-c5c28dfd309f";
+    rdfs:label "Costumer Data";
+    dcterms:description "CUSTOMER DATA includes all information necessary to manage orders—such as identifiers, addresses, logistics preferences, and contractual conditions.";
+    dcterms:created "2026-11-02"^^xsd:date;
+    dcterms:modified "2026-11-02T08:06:00.945Z"^^xsd:dateTime.
