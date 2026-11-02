@@ -124,5 +124,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "e9d90522-3eac-461e-a9f0-d06544c700cf",
+    "comments": [
+      {
+        "id": "2op9t46he",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "We are reviewing the baseline definition of Supply Chain within our shared vocabulary. Open modeling question under review:Ontological Structure: Should organizations be listed alongside resources and activities, or should the definition reflect that organizations are the entities managing those resources, activities, and technologies?   What is your perspective from a data modeling or domain standpoint? Reply below to share your thoughts as we finalize the consensus! ",
+        "timestamp": "2026-11-02T08:19:25.183Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
