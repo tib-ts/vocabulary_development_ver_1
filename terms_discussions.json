@@ -556,5 +556,19 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "ac717e91-5c36-49e5-9562-a155917cf468",
+    "comments": [
+      {
+        "id": "nvhy323le",
+        "parentId": null,
+        "author": "System ADMIN",
+        "content": "Comment with a link: [Take a look](https://example.com/a?b=1)",
+        "timestamp": "2026-11-02T14:38:18.729Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
