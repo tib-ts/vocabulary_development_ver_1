@@ -76,10 +76,3 @@
     dcterms:description "Supply-chain phenomenon where small changes in customer demand lead to larger fluctuations in orders ";
     dcterms:created "2026-11-02"^^xsd:date;
     dcterms:modified "2026-11-02T11:52:57.639Z"^^xsd:dateTime.
-<https://example.com#ac717e91-5c36-49e5-9562-a155917cf468> rdf:type rdfs:Resource;
-    dcterms:identifier "ac717e91-5c36-49e5-9562-a155917cf468";
-    rdfs:label "Supply chain";
-    dcterms:description "complex logistics system that consists of facilities that convert raw materials into finished products and distribute them[1] to end consumers[2] or end customers";
-    ex:status "draft";
-    dcterms:created "2026-11-02"^^xsd:date;
-    dcterms:modified "2026-11-02T11:57:08.546Z"^^xsd:dateTime.
