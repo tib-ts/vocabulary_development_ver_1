@@ -63,3 +63,9 @@
     dcterms:description "The ratio between the desired benefit and the energy input required to achieve it";
     dcterms:created "2026-10-29"^^xsd:date;
     dcterms:modified "2026-10-29T09:28:56.711Z"^^xsd:dateTime.
+<https://example.com#7955a867-34b8-4897-b5a4-455beb0d2ad8> rdf:type rdfs:Resource;
+    dcterms:identifier "7955a867-34b8-4897-b5a4-455beb0d2ad8";
+    rdfs:label "Surface Area";
+    dcterms:description "Area of surface intersection of liquid and insulation";
+    dcterms:created "2026-11-04"^^xsd:date;
+    dcterms:modified "2026-11-04T09:47:47.572Z"^^xsd:dateTime.
