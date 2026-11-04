@@ -174,5 +174,33 @@
         "downvotes": []
       }
     ]
+  },
+  {
+    "resourceId": "deb74f81-d443-4ca0-83b0-bb159012f6e1",
+    "comments": [
+      {
+        "id": "up8dh4im8",
+        "parentId": null,
+        "author": "Armin M",
+        "content": "I think \"A branch of physics\" is enough, because Engineering could be interpreted as a branch of (applied) physics.\n",
+        "timestamp": "2026-11-04T09:50:47.331Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
+  },
+  {
+    "resourceId": "987494db-a925-4472-b37e-78c9303fead8",
+    "comments": [
+      {
+        "id": "ogskzjyfo",
+        "parentId": null,
+        "author": "Armin M",
+        "content": "\"Transfer\" and \"transport\" are often seen as equavalent, but there are some little differences. \n\"Transport\" > long distances, carrying the energy.\n\"Transfer\" > exchange between different objs, (often) in near disances. ",
+        "timestamp": "2026-11-04T09:53:44.703Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
   }
 ]
