@@ -160,6 +160,18 @@
         "timestamp": "2026-10-29T09:43:39.170Z",
         "upvotes": [],
         "downvotes": []
+      },
+      {
+        "id": "oowgogbxi",
+        "parentId": "on49jxzpj",
+        "author": "Armin M",
+        "content": "@System ADMIN I think Its pure material property on its own and not about insulation layer(s). Must be (almost) the same in different test and experiment sets. \n",
+        "timestamp": "2026-11-04T09:47:28.668Z",
+        "mentionedUsers": [
+          "System ADMIN"
+        ],
+        "upvotes": [],
+        "downvotes": []
       }
     ]
   }
