@@ -1,0 +1,15 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dcterms: <http://purl.org/dc/terms/#>.
+@prefix ex: <https://example.com/ns#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://example.com#4e30cd3f-1d52-42ea-8c3e-a279e2a7e46e> rdf:type rdfs:Resource;
+    dcterms:identifier "4e30cd3f-1d52-42ea-8c3e-a279e2a7e46e";
+    rdfs:label "test";
+    dcterms:description "Not Available";
+    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/bau/terms?iri=https%3A%2F%2Fterminology.fraunhofer.de%2Fvoc%2Fbau%23B20048865201_4";
+    ex:status "draft";
+    dcterms:created "2026-11-11"^^xsd:date;
+    dcterms:modified "2026-11-11T13:34:11.787Z"^^xsd:dateTime.
