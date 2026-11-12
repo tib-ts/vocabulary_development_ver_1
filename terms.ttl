@@ -1,0 +1,71 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dcterms: <http://purl.org/dc/terms/#>.
+@prefix ex: <https://example.com/ns#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://example.com#987494db-a925-4472-b37e-78c9303fead8> rdf:type rdfs:Resource;
+    dcterms:identifier "987494db-a925-4472-b37e-78c9303fead8";
+    rdfs:label "Heat transport";
+    dcterms:description "The transfer of heat by conduction, convection or radiation.";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:44:04.178Z"^^xsd:dateTime.
+<https://example.com#1fb39bfc-4c0a-477f-9a31-c6af91d5bf01> rdf:type rdfs:Resource;
+    dcterms:identifier "1fb39bfc-4c0a-477f-9a31-c6af91d5bf01";
+    rdfs:label "Insulation";
+    dcterms:description "The separation of a system from its surroundings, for example to reduce heat transfer.";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:45:31.836Z"^^xsd:dateTime.
+<https://example.com#a33b3cd2-7308-4427-a422-39fd825ed838> rdf:type rdfs:Resource;
+    dcterms:identifier "a33b3cd2-7308-4427-a422-39fd825ed838";
+    rdfs:label "Insulating material";
+    dcterms:description "A material which, due to its properties, reduces heat transfer";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:45:46.032Z"^^xsd:dateTime.
+<https://example.com#dc5b7254-ab10-4919-8175-d88e2b95a483> rdf:type rdfs:Resource;
+    dcterms:identifier "dc5b7254-ab10-4919-8175-d88e2b95a483";
+    rdfs:label "Temperature change";
+    dcterms:description "A change in the temperature of a system over a specific period of time";
+    ex:status "draft";
+    dcterms:created "2026-10-14"^^xsd:date;
+    dcterms:modified "2026-10-14T11:46:20.307Z"^^xsd:dateTime.
+<https://example.com#bdcfe862-f639-4939-9914-0498248b9df7> rdf:type rdfs:Resource;
+    dcterms:identifier "bdcfe862-f639-4939-9914-0498248b9df7";
+    rdfs:label "Heat loss";
+    dcterms:description "The transfer of thermal energy from a system to its cooler surroundings.";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:10:52.759Z"^^xsd:dateTime.
+<https://example.com#b97a999e-7505-4a57-9f29-7cf16e4caa41> rdf:type rdfs:Resource;
+    dcterms:identifier "b97a999e-7505-4a57-9f29-7cf16e4caa41";
+    rdfs:label "Thermal insulation";
+    dcterms:description "The reduction of heat exchange between a system and its surroundings through appropriate measures or materials";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:27:04.122Z"^^xsd:dateTime.
+<https://example.com#6756b2f6-3a52-45df-a34d-9147c7cbdabb> rdf:type rdfs:Resource;
+    dcterms:identifier "6756b2f6-3a52-45df-a34d-9147c7cbdabb";
+    rdfs:label "Thermal conductivity";
+    dcterms:description "A material property that indicates how well a substance conducts heat";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:27:26.721Z"^^xsd:dateTime.
+<https://example.com#deb74f81-d443-4ca0-83b0-bb159012f6e1> rdf:type rdfs:Resource;
+    dcterms:identifier "deb74f81-d443-4ca0-83b0-bb159012f6e1";
+    rdfs:label "Thermodynamics";
+    dcterms:description "A branch of physics and engineering that studies heat, temperature, energy and their transformation";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:28:25.624Z"^^xsd:dateTime.
+<https://example.com#0f59239a-2d3d-46cf-ac5e-f2c23920137e> rdf:type rdfs:Resource;
+    dcterms:identifier "0f59239a-2d3d-46cf-ac5e-f2c23920137e";
+    rdfs:label "Energy efficiency";
+    dcterms:description "The ratio between the desired benefit and the energy input required to achieve it";
+    dcterms:created "2026-10-29"^^xsd:date;
+    dcterms:modified "2026-10-29T09:28:56.711Z"^^xsd:dateTime.
+<https://example.com#7955a867-34b8-4897-b5a4-455beb0d2ad8> rdf:type rdfs:Resource;
+    dcterms:identifier "7955a867-34b8-4897-b5a4-455beb0d2ad8";
+    rdfs:label "Surface Area";
+    dcterms:description "Area of surface intersection of liquid and insulation";
+    dcterms:created "2026-11-04"^^xsd:date;
+    dcterms:modified "2026-11-04T09:47:47.572Z"^^xsd:dateTime.
