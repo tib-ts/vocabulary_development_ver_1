@@ -1,0 +1,100 @@
+[
+  {
+    "resourceId": "2cde932d-e1c3-4dbb-aa9a-2eb0475f5ecf",
+    "comments": [
+      {
+        "id": "egfvos8dl",
+        "parentId": null,
+        "author_uuid": "1af674cc-cd9e-40e3-ac0b-33888c34a3a4",
+        "content": "Welcome! We are currently discussing whether our baseline definition for the Bullwhip Effect fully captures all relevant drivers. Open questions for discussion: * Should we explicitly mention inventory management policies alongside forecasting updates?   * Would it be more accurate to refine \"demand distortions\" into \"distortions in the perception of demand\"?   What is your perspective? Feel free to reply below or propose an update to the definition! ",
+        "timestamp": "2026-11-02T08:05:08.825Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
+  },
+  {
+    "resourceId": "4b3b83dd-33b5-4d31-b352-abfb5a5d7d47",
+    "comments": [
+      {
+        "id": "e8q8ocmhs",
+        "parentId": null,
+        "author_uuid": "1af674cc-cd9e-40e3-ac0b-33888c34a3a4",
+        "content": "We are reviewing the definition of Capacity within the semiconductor domain. Key feedback under review:\n\nTime & Product Mix: Should capacity explicitly specify a timeframe (e.g., over a given duration) and account for the technology/product mix?\n\nScope & Separation: Should the dispatching/lot priority rules be separated from the core definition of capacity?\n\nWhat is your perspective? Reply below to share your feedback before the consensus vote is finalized!",
+        "timestamp": "2026-11-02T08:11:15.417Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
+  },
+  {
+    "resourceId": "294e84a1-ebe9-4db0-8704-c5c28dfd309f",
+    "comments": [
+      {
+        "id": "3b0bmsf4j",
+        "parentId": null,
+        "author_uuid": "1af674cc-cd9e-40e3-ac0b-33888c34a3a4",
+        "content": "Welcome to the discussion on \"Customer Data\"! We are currently defining what Customer Data encompasses within our shared vocabulary. Open question for the community: * Should we expand this definition to explicitly include behavioral data (e.g., interaction history, usage patterns) alongside transactional/order data?   What is your experience in data modeling and customer domain management? Reply below to share your perspective before we move to a consensus vote!  ",
+        "timestamp": "2026-11-02T08:09:10.461Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
+  },
+  {
+    "resourceId": "bd868a8d-dfac-41d3-a36a-81921602684a",
+    "comments": [
+      {
+        "id": "buwzia53f",
+        "parentId": null,
+        "author_uuid": "1af674cc-cd9e-40e3-ac0b-33888c34a3a4",
+        "content": "We are reviewing the baseline definition for Demand within our shared supply chain vocabulary. Open question under review:Should the term \"customers\" be specified to reflect intermediate steps along the supply chain (e.g., \"requested by customers active in this part of the value chain\"), rather than referring strictly to end customers?   What is your perspective from a supply chain and data modeling standpoint? Reply below to share your thoughts as we finalize the consensus",
+        "timestamp": "2026-11-02T08:13:21.479Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
+  },
+  {
+    "resourceId": "16c40e41-dd1e-4092-a934-a57358c3b293",
+    "comments": [
+      {
+        "id": "qbtmr2sho",
+        "parentId": null,
+        "author_uuid": "1af674cc-cd9e-40e3-ac0b-33888c34a3a4",
+        "content": "We are refining the definition of Past Demand for our shared supply chain vocabulary. Key discussion points under review: * Units of Measurement: Should the definition strictly refer to quantities, or remain open to monetary values ($ / €)?   * Requested vs. Purchased: In allocation scenarios or capacity bottlenecks, requested demand often differs significantly from actual purchases. Should both be captured explicitly?   * Naming & Multidimensionality: Does \"Past Demand\" imply historical actuals, or should we account for past forecast snapshots?   What is your perspective? Reply below to share your thoughts before we move to the final consensus vote!",
+        "timestamp": "2026-11-02T08:16:10.210Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
+  },
+  {
+    "resourceId": "fabb0d0f-9a44-42d3-9b59-ad845f64eb8e",
+    "comments": [
+      {
+        "id": "tore5j4wn",
+        "parentId": null,
+        "author_uuid": "1af674cc-cd9e-40e3-ac0b-33888c34a3a4",
+        "content": "We are reviewing the definition of the Pork Cycle within supply chain dynamics and semiconductor economics. Key discussion points under review: * Drivers of the Cycle: Does the cycle require huge capital investments, or can it occur with moderate investment delays even under stable demand conditions?   * Industry Relevance: How accurately does the metaphor capture the unique dynamics of the semiconductor market compared to traditional agricultural models?   What is your perspective? Reply below to share your feedback as we align on the final consensus! ",
+        "timestamp": "2026-11-02T08:17:56.872Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
+  },
+  {
+    "resourceId": "e9d90522-3eac-461e-a9f0-d06544c700cf",
+    "comments": [
+      {
+        "id": "2op9t46he",
+        "parentId": null,
+        "author_uuid": "1af674cc-cd9e-40e3-ac0b-33888c34a3a4",
+        "content": "We are reviewing the baseline definition of Supply Chain within our shared vocabulary. Open modeling question under review:Ontological Structure: Should organizations be listed alongside resources and activities, or should the definition reflect that organizations are the entities managing those resources, activities, and technologies?   What is your perspective from a data modeling or domain standpoint? Reply below to share your thoughts as we finalize the consensus! ",
+        "timestamp": "2026-11-02T08:19:25.183Z",
+        "upvotes": [],
+        "downvotes": []
+      }
+    ]
+  }
+]
