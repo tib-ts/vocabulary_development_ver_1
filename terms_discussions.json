@@ -52,6 +52,15 @@
         "timestamp": "2026-11-18T15:31:00.538Z",
         "upvotes": [],
         "downvotes": []
+      },
+      {
+        "id": "lzxbd7ln0",
+        "parentId": null,
+        "author_uuid": "d062966e-ccbf-4039-9e71-f8b1b806f8f8",
+        "content": "We are reviewing the baseline definition for **Demand** within our shared supply chain vocabulary.\n\n**Open question under review:**\n\n- Should the term \"customers\" be specified to reflect intermediate steps along the supply chain (e.g., \"requested by customers active in this part of the value chain\"), rather than referring strictly to end customers?\n\n**What is your perspective from a supply chain and data modeling standpoint?** Reply below to share your thoughts as we finalize the consensus.\n",
+        "timestamp": "2026-11-18T15:31:06.674Z",
+        "upvotes": [],
+        "downvotes": []
       }
     ]
   }
