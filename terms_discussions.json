@@ -43,6 +43,15 @@
         "timestamp": "2026-11-18T15:30:22.443Z",
         "upvotes": [],
         "downvotes": []
+      },
+      {
+        "id": "l1iew5du5",
+        "parentId": null,
+        "author_uuid": "d062966e-ccbf-4039-9e71-f8b1b806f8f8",
+        "content": "Welcome to the discussion on **Customer Data**! We are currently defining what Customer Data encompasses within our shared vocabulary.\n\n**Open question for the community:**\n\n- Should we expand this definition to explicitly include behavioral data (e.g., interaction history, usage patterns) alongside transactional/order data?\n\n**What is your experience in data modeling and customer domain management?** Reply below to share your perspective before we move to a consensus vote!\n",
+        "timestamp": "2026-11-18T15:31:00.538Z",
+        "upvotes": [],
+        "downvotes": []
       }
     ]
   }
