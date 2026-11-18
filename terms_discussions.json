@@ -34,6 +34,15 @@
         "timestamp": "2026-11-18T15:28:41.234Z",
         "upvotes": [],
         "downvotes": []
+      },
+      {
+        "id": "n5kkp0dkk",
+        "parentId": null,
+        "author_uuid": "d062966e-ccbf-4039-9e71-f8b1b806f8f8",
+        "content": "We are reviewing the definition of **Capacity** within the semiconductor domain.\n\n**Key feedback under review:**\n\n- **Time & Product Mix:** Should capacity explicitly specify a timeframe (e.g., over a given duration) and account for the technology/product mix?\n- **Scope & Separation:** Should the dispatching/lot priority rules be separated from the core definition of capacity?\n\n**What is your perspective?** Reply below to share your feedback before the consensus vote is finalized!",
+        "timestamp": "2026-11-18T15:30:22.443Z",
+        "upvotes": [],
+        "downvotes": []
       }
     ]
   }
